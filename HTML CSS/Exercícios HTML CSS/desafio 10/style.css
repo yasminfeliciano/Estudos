@@ -1,0 +1,113 @@
+@charset "UTF-8";
+
+@font-face {
+    font-family: 'MADE';
+    src: url('fontes/MADE Bon Voyage Regular.otf') format('opentype'), url('fontes/MADE Bon Voyage Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+:root {
+    --cor0: #d9d9f2;
+    --cor1: #a1a1de;
+    --cor2: #6868ca;
+    --cor3: #3c3caa; 
+    --cor4: #282871;
+    --cor5: #141439;
+    --cor6: #b4b4b4;
+
+    --fonte-padrao: Georgia, 'Times New Roman', Times, serif;
+    --fonte-destaque: 'Made', cursive;
+}
+
+body{
+    background-color: #ffffff;
+}
+
+main {
+    background-color: white;
+    max-width: 500px;
+    padding: 20px 0px 0px 0px;
+    margin: auto;
+}
+
+h1 {
+    font-family: 'MADE', Georgia, 'Times New Roman', Times, serif;
+    font-weight: lighter;
+    font-size: 42px;
+    color: white;
+    background-color: var(--cor5);
+    padding: 15px;
+    text-align: center;
+    margin: 0px;
+}
+
+h2 {
+    font-family: 'MADE', Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    text-decoration: none;
+    color: var(--cor1);
+}
+
+img {
+    width: 100%;
+}
+
+p {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: var(--cor4);
+    text-align: center;
+}
+
+p.subtitulo {
+    color: var(--cor3);
+    font-size: 20px;
+    text-align: center;
+    max-width: 500px;
+    padding: 20px 0px 0px 0px;
+    margin: auto;
+}
+
+p.menu {
+    background-color: var(--cor5);
+    padding: 5px;
+    margin:1px 0px;
+}
+
+a {
+    color: var(--cor1);
+    text-decoration: none;
+}
+
+a:hover {
+    color: rgb(180, 180, 180);
+    text-decoration: none;
+}
+
+a.menu {
+    font-size: 20px;
+    color: white;
+    padding: 20px;
+}
+
+a.menu:hover {
+    color: rgb(180, 180, 180);
+    text-decoration: none
+}
+
+picture {
+    padding: 0px;
+    margin: 0px;
+}
+
+footer {
+    background-color: var(--cor5);
+    color: white;
+    text-align: center;
+    padding: 4px;
+    margin: 0px;
+}
+
+footer>p {
+    margin: 0px;
+}
