@@ -1,0 +1,29 @@
+#a {
+    width: 400px;
+    height: 400px;
+    object-fit: fill;
+}
+
+#b {
+    width: 400px;
+    height: 400px;
+    object-fit: contain;
+}
+
+#c {
+    width: 400px;
+    height: 400px;
+    object-fit: cover;
+}
+
+#d {
+    width: 400px;
+    height: 400px;
+    object-fit: none;
+}
+
+#e {
+    width: 400px;
+    height: 400px;
+    object-fit: scale-down;
+}

@@ -1,0 +1,20 @@
+body {
+    margin: 0;
+}
+
+.box {
+    background-color: antiquewhite;
+    font-size: 20px;
+    color: rgb(128, 115, 85);
+    padding: 10px;
+}
+
+h1 {
+    font-size: 30px;
+    color: rgb(112, 79, 45);
+}
+
+.box h1 {
+    font-size: inherit;
+    color: inherit;
+}

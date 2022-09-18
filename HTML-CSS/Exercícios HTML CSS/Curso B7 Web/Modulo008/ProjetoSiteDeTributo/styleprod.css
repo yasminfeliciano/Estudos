@@ -1,0 +1,334 @@
+*{
+    margin: 0;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+header{
+    align-items: center;
+}
+
+.main_title{
+    background-color: #681e36;
+    color: #fff;
+    padding-top: 60px;
+    width: 100%;
+    
+}
+
+h1.mt{
+    font-size: 50px;
+    padding-top: 50px;
+}
+
+p.mt{
+    font-size: 18px;
+    text-align: center;
+    padding: 20px;
+    border-top: 1px solid #fff;
+}
+
+.imagem{
+    text-align: center;
+    margin-top: 500px;
+}
+
+img{
+    max-height: 500px;
+}
+
+.product-details_outer{
+    background-color: #fff;
+    color: #333;
+    font-family: Helvetica,Open-Sans,"sans-serif-light",sans-serif;
+    font-size: 1rem;
+    font-weight: 300;
+    max-width: 400px;
+    padding: 30px;
+    align-self:end;
+}
+
+.product-details_head{
+    font-size: inherit;
+    font-weight: inherit;
+    margin: 0;
+    padding: 0;
+}
+
+.product-details_title {
+    color: #1d1d1d;
+    font-size: 1.5625rem;
+    line-height: 1.24;
+    padding-bottom: 0.5625rem;
+    position: relative;
+    text-transform: uppercase;
+}
+
+.product-details_title:after {
+    background-color: currentColor;
+    bottom: 0;
+    content: "";
+    display: block;
+    height: 0.25rem;
+    left: 0;
+    position: absolute;
+    right: 0;
+}
+
+.product-details_description, .product-details_reference, .product-details_title {
+    display: block;
+    color: #333;
+    box-sizing: border-box;
+}
+
+.product-details_bar{
+    color: #333;
+    font-family: Helvetica,Open-Sans,"sans-serif-light",sans-serif;
+    font-size: .875rem;
+    font-weight: 300;
+}
+
+.product-details_price {
+    -webkit-font-smoothing: antialiased;
+    -webkit-text-size-adjust: 100%;
+    color: #333;
+    font-family: Helvetica,Open-Sans,"sans-serif-light",sans-serif;
+    font-size: .875rem;
+    font-weight: 300;
+    letter-spacing: .00625rem;
+    line-height: 1.4285714286;
+}
+
+.link{
+    color: #333;
+    font-family: Helvetica,Open-Sans,"sans-serif-light",sans-serif;
+    font-size: .875rem;
+    font-weight: 300;
+}
+
+.button{
+    background-color: #000;
+    border: 1px solid #000;
+    color: #fff;
+    width: 100%;
+}
+.button, .link {
+    position: relative;
+}
+.button, input[type=submit] {
+    align-content: center;
+    align-items: center;
+    border-width: 0;
+    display: inline-flex;
+    font-size: 0.8rem;
+    height: 3.125rem;
+    justify-content: center;
+    margin-top: 15px;
+    padding: 0 1.5rem;
+    text-align: center;
+    -webkit-user-select: none;
+    user-select: none;
+    vertical-align: middle;
+}
+
+#banner {
+    display: flex;
+    justify-content: center;
+    background-image: url('images/chanel5.png');
+    background-position: center;
+    background-size: cover;
+    height: 670px;
+}
+
+.container{
+    display: flex;
+    flex-direction: row-reverse;
+}
+
+.column{
+    flex-direction: column;
+}
+
+.banner_headline {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.banner_headline_divisa{
+    background-color: #a22f53;
+    height: 2px;
+    margin-top: 40px;
+}
+
+.banner_headline h1{
+    color: #fff;
+    font-size: 50px;
+    text-shadow: 1px 2px 0px rgb(0, 0, 0);
+    margin: 0;
+    padding: 0;
+    max-width: 350px;
+    margin-top: 100px;
+}
+
+.banner_headline h2{
+    color: #e8b0c1;
+    font-size: 21px;
+    text-shadow: 1px 1px 0px rgb(0, 0, 0);
+    margin: 0;
+    padding: 0;
+    max-width: 350px;
+    margin-top: 10px;
+    margin-bottom: 60px;
+}
+
+.banner_options{
+    height: 240px;
+    display: flex;
+    flex-direction: row;
+    margin-top: 78px;
+    max-width: 1000px;
+}
+
+.banner1, .banner2, .banner3{
+    flex: 2;
+    max-width: 400px;
+    color: #fff;
+    padding: 20px;
+}
+
+.banner_time{
+    flex: 1;
+    color: #681e36;
+    font-weight: bold;
+    padding: 20px;
+    max-width: 200px;
+}
+
+.banner1{
+    background-color: hsl(341, 55%, 56%);
+}
+
+.banner2{
+    background-color: hsl(341, 55%, 41%);
+}
+
+.banner3{
+    background-color: hsl(341, 55%, 26%);
+}
+
+.banner_title{
+    font-size: 25px;
+}
+
+.banner_desc{
+    font-size: 15px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.banner_options a{
+    display: inline-block;
+    border: 1px solid #fff;
+    padding: 5px;
+    color: #fff;
+    font-size: 12px;
+    text-decoration: none;
+}
+
+.banner3{
+    display: flexbox;
+    justify-content: center;
+}
+
+.banner_3a{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border-bottom: 1px solid #fff;
+    font-size: 12px;
+}
+
+.banner_form{
+    border: 5px solid #a22f53;
+    padding: 10px 60px;
+}
+
+
+.footer_divisa{
+    background-color: #a22f53;
+    height: 2px;
+    margin-top: 50px;
+}
+
+footer{
+    background-color: #1e1e1e;
+    display: flex;
+    justify-content: center;
+}
+
+.footer_menu{
+    display: flex;
+}
+
+.fm_1, .fm_2, .fm_3{
+    flex:1;
+    color: #fff;
+}
+
+.fm_1{
+    background-color: #cd5178;
+}
+
+.fm_2{
+    background-color: #a22f53;
+}
+
+.fm_3{
+    background-color: #681e36;
+}
+
+.footer_menu a{
+    display: block;
+    color: white;
+    text-decoration: none;
+    padding: 20px;
+}
+
+.footer_area{
+    display: flex;
+}
+
+.footer_areaitem{
+    flex:1;
+    color:#fff;
+}
+
+.flexColumn{
+    flex-direction: column;
+}
+
+footer .widget_title_text{
+    color: #fff;
+    font-size: 15px;
+}
+
+footer .widget_body{
+    color: #fff;
+    font-size: 11px;
+}
+
+.made_by{
+    color: #a22f53;
+    margin-top: 30px;
+}
+
+.footer_copy{
+    border-top: 1px solid #2c2c2c;
+    height: 40px;
+    line-height: 40px;
+    color: #5c5c5c;
+    font-size: 12px;
+
+}

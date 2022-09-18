@@ -1,0 +1,7 @@
+D:\YASMIN\Estudos\C#\Curso C# 2021 - Bruno Santos\Condicoes\Condicoes\bin\Debug\Condicoes.exe.config
+D:\YASMIN\Estudos\C#\Curso C# 2021 - Bruno Santos\Condicoes\Condicoes\bin\Debug\Condicoes.exe
+D:\YASMIN\Estudos\C#\Curso C# 2021 - Bruno Santos\Condicoes\Condicoes\bin\Debug\Condicoes.pdb
+D:\YASMIN\Estudos\C#\Curso C# 2021 - Bruno Santos\Condicoes\Condicoes\obj\Debug\Condicoes.csproj.AssemblyReference.cache
+D:\YASMIN\Estudos\C#\Curso C# 2021 - Bruno Santos\Condicoes\Condicoes\obj\Debug\Condicoes.csproj.CoreCompileInputs.cache
+D:\YASMIN\Estudos\C#\Curso C# 2021 - Bruno Santos\Condicoes\Condicoes\obj\Debug\Condicoes.exe
+D:\YASMIN\Estudos\C#\Curso C# 2021 - Bruno Santos\Condicoes\Condicoes\obj\Debug\Condicoes.pdb

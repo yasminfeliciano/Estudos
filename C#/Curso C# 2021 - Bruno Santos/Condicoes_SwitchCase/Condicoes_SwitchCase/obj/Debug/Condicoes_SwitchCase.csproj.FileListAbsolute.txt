@@ -1,0 +1,7 @@
+D:\YASMIN\Estudos\C#\Curso C# 2021 - Bruno Santos\Condicoes_SwitchCase\Condicoes_SwitchCase\obj\Debug\Condicoes_SwitchCase.csproj.AssemblyReference.cache
+D:\YASMIN\Estudos\C#\Curso C# 2021 - Bruno Santos\Condicoes_SwitchCase\Condicoes_SwitchCase\obj\Debug\Condicoes_SwitchCase.csproj.CoreCompileInputs.cache
+D:\YASMIN\Estudos\C#\Curso C# 2021 - Bruno Santos\Condicoes_SwitchCase\Condicoes_SwitchCase\bin\Debug\Condicoes_SwitchCase.exe.config
+D:\YASMIN\Estudos\C#\Curso C# 2021 - Bruno Santos\Condicoes_SwitchCase\Condicoes_SwitchCase\bin\Debug\Condicoes_SwitchCase.exe
+D:\YASMIN\Estudos\C#\Curso C# 2021 - Bruno Santos\Condicoes_SwitchCase\Condicoes_SwitchCase\bin\Debug\Condicoes_SwitchCase.pdb
+D:\YASMIN\Estudos\C#\Curso C# 2021 - Bruno Santos\Condicoes_SwitchCase\Condicoes_SwitchCase\obj\Debug\Condicoes_SwitchCase.exe
+D:\YASMIN\Estudos\C#\Curso C# 2021 - Bruno Santos\Condicoes_SwitchCase\Condicoes_SwitchCase\obj\Debug\Condicoes_SwitchCase.pdb

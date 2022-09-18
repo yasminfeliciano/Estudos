@@ -1,0 +1,56 @@
+:root {
+    --bg-color: #fff;
+    --bg-second: #ccc;
+    --font-color: #f00;
+    --font-size: 20px;
+    --font-size-medium: 30px;
+}
+
+body {
+    background-color: var(--bg-color);
+    font-size: var(--font-size);
+}
+
+h1 {
+    color: var(--font-color2, #00f);
+    font-size: var(--font-size-medium);
+}
+
+.container {
+    background-color: var(--bg-second);
+    color: var(--font-color);
+}
+
+@media (max-width: 450px) {
+    :root {
+        --font-size: 10px;
+        --font-size-medium: 15px;
+   }
+}
+
+.video {
+    width: 100%;
+    max-width: 800px;
+    margin: auto;
+}
+
+.video-area {
+    position: relative;
+    height: 0px;
+    background-color: #ccc;
+    padding: 0px 0px 56.25%;
+}
+
+.video-area iframe {
+    position: absolute;
+    top: 0px;
+    bottom: 0px;
+    left: 0px;
+    width: 100%;
+    height: 100%;
+    border: 0px;
+}
+
+img {
+    width: min(50%, 300px);
+}

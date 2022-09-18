@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Página de Teste</title>
+    <link href="https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="estilo pg3.css">
+</head>
+<body>
+    <h1>Página de Teste</h1>
+
+    <h2>Área de Cadastro</h2>
+    <form action="paginas/login.html" method="get">
+     
+        <select name="order" size="2" multiple>
+            <option value="last">recentes</option>
+            <option value="bestseller" selected>mais vendidos</option>
+        </select>
+        <br/>
+
+        <textarea name="descricao" style="width: 400px; height: 200px" cols="30" rows="10"></textarea>
+        <br/>
+
+        <label>
+            descrição:<br/>
+            <textarea name="descricao"></textarea>
+        </label>
+        
+        <label>
+            categoria:<br/>
+            <select name="categoria">
+                <option value="1">categoria 1</option>
+
+                <option value="2">categoria 2</option>                
+        
+                <option value="3">categoria 3</option>
+        
+                <option value="4">categoria 4</option>
+        
+                <option value="5">categoria 5</option>
+
+            </select>
+        </label>
+
+        <!-- label com id -->
+        <label for="nome">
+            nome completo
+        </label>
+        <input type="text" name="name" id="nome">
+        <br/>
+
+        <!-- label com id -->
+        <label>
+            <input type="checkbox">
+            Essa é uma frase para um teste
+        </label>
+        <br/>
+
+        <!-- label sem id -->
+        <input type="checkbox" id="teste"><label for="teste">Essa é uma frase para um <a href="google.com" target="_blank" class="googlelink">teste</a></label>
+        <br/>
+
+        <button>texto do próprio botão</button>
+        <br/>
+
+        <input type="submit" value="fazer cadastro">
+    </form>
+
+    <h2>Área de Login</h2>
+    <form action=""></form>
+</body>
+</html>

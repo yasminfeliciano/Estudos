@@ -1,0 +1,64 @@
+body{
+    margin: 0;
+}
+
+.exemplo {
+    width: 150px;
+    height: 200px;
+    border:1px solid #000;
+    word-wrap: break-word;
+}
+
+.exemplo2 {
+    width: 150px;
+    height: 200px;
+    border:1px solid #000;
+    overflow: hidden;
+}
+
+q{
+    color: #555;
+    font-style: italic;
+}
+
+header{
+    background-color: #555;
+    min-height: 100px;
+}
+
+.conteiner{
+    display:flex;
+    min-height: 600px;
+}
+
+aside{
+    width: 200px;
+    background-color: #888;
+}
+
+main{
+    flex:1;
+    background-color: #999;
+}
+
+footer{
+    background-color: #555;
+    min-height: 100px;
+}
+
+address{
+    color: #fff;
+}
+
+figure{
+    padding: 5px;
+    margin: 0;
+    border: 1px solid #ccc;
+}
+
+figcaption{
+    background-color: #000;
+    color: #fff;
+    text-align: center;
+    padding: 2px;
+}

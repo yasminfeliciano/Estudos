@@ -1,0 +1,7 @@
+D:\YASMIN\Estudos\C#\Curso C# 2021 - Bruno Santos\ExemploHelloWorld\ExemploHelloWorld\bin\Debug\ExemploHelloWorld.exe.config
+D:\YASMIN\Estudos\C#\Curso C# 2021 - Bruno Santos\ExemploHelloWorld\ExemploHelloWorld\bin\Debug\ExemploHelloWorld.exe
+D:\YASMIN\Estudos\C#\Curso C# 2021 - Bruno Santos\ExemploHelloWorld\ExemploHelloWorld\bin\Debug\ExemploHelloWorld.pdb
+D:\YASMIN\Estudos\C#\Curso C# 2021 - Bruno Santos\ExemploHelloWorld\ExemploHelloWorld\obj\Debug\ExemploHelloWorld.csproj.AssemblyReference.cache
+D:\YASMIN\Estudos\C#\Curso C# 2021 - Bruno Santos\ExemploHelloWorld\ExemploHelloWorld\obj\Debug\ExemploHelloWorld.csproj.CoreCompileInputs.cache
+D:\YASMIN\Estudos\C#\Curso C# 2021 - Bruno Santos\ExemploHelloWorld\ExemploHelloWorld\obj\Debug\ExemploHelloWorld.exe
+D:\YASMIN\Estudos\C#\Curso C# 2021 - Bruno Santos\ExemploHelloWorld\ExemploHelloWorld\obj\Debug\ExemploHelloWorld.pdb

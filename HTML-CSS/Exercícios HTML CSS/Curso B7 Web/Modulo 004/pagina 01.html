@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Título do site</title>
+    <link rel="stylesheet" href="estilo pg1.css">
+</head>
+<body>
+    <h1>Título do Site</h1>
+    <div class="container" style="color: #00f;">
+        Este é um <strong>texto</strong> qualquer
+    </div>
+
+    <!-- a tag container é mais específica que a tag div, por exemplo, por isso ela tem prioridade -->
+
+    <!-- 
+    As propriedades são aplicadas com ordem de execução do HTML e ordem de hierarquia inversa a de execução:
+
+    1 - Primeiramente são aplicadas as propridades do arquivo externo (CSS)
+    
+    2 - Depois são as propriedades aplicadas na página (<style><style/>)
+
+    3 - Por último são as propriedades em line (style=" ")
+
+    Ou seja, propriedades in line tem prioridade sobre as da páginas e essas têm prioridade sobre as do arquivo externo
+    -->
+    <div">
+        este é um outro texto
+    </div>
+</body>
+</html>

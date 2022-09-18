@@ -1,0 +1,89 @@
+body {
+    background-image:url('bg.jpg');
+    background-size:cover;
+    background-position:center;
+}
+
+
+div.background{
+    background-color: rgb(255, 125, 0, 0.3);
+    position: fixed;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+}
+
+div.texto {
+    background-color: #f00;
+    width: 200px;
+    height: 200px;
+    margin: auto;
+    transform: scale(2, 1);
+}
+
+div.texto2 {
+    background-color: #f00;
+    width: 200px;
+    height: 200px;
+    margin: auto;
+    transform: rotate(45deg);
+}
+
+div.texto3 {
+    background-color: #f00;
+    width: 200px;
+    height: 100px;
+    position: fixed;
+    right: -50px;
+    bottom: 50px;
+    transform: rotate(90deg);
+}
+
+div.texto4 {
+    background-color: #f00;
+    width: 200px;
+    height: 200px;
+    margin: auto;
+    transform: skew(20deg, 10deg) ;
+}
+
+div.box{
+    width: 200px;
+    height: 200px;
+    background-color: #f00;
+    border: 10px solid #0f0;
+    box-sizing: border-box;
+}
+
+.input {
+    width: 400px;
+    height: 50px;
+    font-size: 27px;
+    color: #f00;
+    position: absolute;
+}
+
+.input::placeholder { /* Todos os navegadores modernos */
+    color: #faa;
+}
+
+.input::-webkit-input-placeholder { /* WebKit, Blink, Edge */
+    color: #faa;
+}
+
+.input:-moz-placeholder { /* Firefox 4 ao 18 */
+    color: #faa;
+}
+
+.input::-moz-placeholder { /* Firefox 19+ */
+    color: #faa;
+}
+
+.input:-ms-input-placeholder { /* IE 10 e 11 */
+    color: #faa;
+}
+
+.input::-ms-input-placeholder { /* Microsoft Edge */
+    color: #faa;
+}

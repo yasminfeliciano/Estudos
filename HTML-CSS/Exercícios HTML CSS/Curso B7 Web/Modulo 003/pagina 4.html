@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Página</title>
+    <link rel="stylesheet" href="estilo pg4.css">
+</head>
+<body>
+    <form method="post" action="blablabla.php" enctype="multipart/form-data">
+        <input type="hidden" name="country" value="BR">
+
+        <fieldset>
+            <legend>Dados Pessoais</legend>
+            <label>
+                Primeiro nome: <br/>
+                <input type="text" name="name" required minlength="2"/>
+            </label> <br/>
+            <label>
+                Sobrenome: <br/>
+                <input type="text" name="lastname" minlength="2" maxlength="50">
+            </label> <br/>
+            <label>
+                Foto: <br/>
+                <input type="file" name="foto" accept="image/*">
+            </label> <br/>
+            <label>
+                Idade: <br/>
+                <input type="number" name="age" step="2" max="120">
+            </label> <br/>
+            <label>
+                Data de Nascimento: <br/>
+                <input type="date" name="birthdate">
+            </label> <br/>
+            <label>
+                Email: <br/>
+                <input type="email" name="email" pattern="(^[a-zA-Z0-9_.+-]+@[a-zA-Z0-9-]+\.[a-zA-Z0-9-.]+$)" title="endereço de email">
+            </label>
+        </fieldset>
+
+        <fieldset>
+            <legend>Dados Profissionais</legend>
+            <label>
+                Nome da empresa: <br/>
+                <input type="text" name="companyname">
+            </label> <br/>
+            <label>
+                Cargo na empresa: <br/>
+                <input type="text" name="companyjobtitle">
+            </label> <br/>
+        </fieldset>
+
+        <input type="submit" value="cadastrar">
+    </form>
+</body>
+</html>

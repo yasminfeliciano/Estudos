@@ -1,0 +1,46 @@
+input, a {
+    display: block;
+}
+
+input[required] {
+    background-color: #f00;
+}
+
+input[type=text] {
+    background-color: #0f0;
+}
+
+input[name="usuário"] {
+    color: #00f;
+}
+
+a[href*="economia"] {
+    background-color:#faa ;
+}
+
+a[href*="futebol"] {
+    background-color: #afa;
+}
+
+a[href$="html"] {
+    color: #66f;
+}
+
+div {
+    margin: 20px;
+    height: 30px;
+}
+
+div:empty {
+    background-color: #f00;
+    display: none;
+}
+
+p::first-letter {
+    font-size: 25px;
+}
+
+p::first-line {
+    font-size: 18px;
+    color: #66f;
+}

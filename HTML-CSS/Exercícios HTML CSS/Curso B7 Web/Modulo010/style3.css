@@ -1,0 +1,35 @@
+.container {
+    background-color: #ccc;
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    grid-gap:10px;
+}
+
+.item {
+    background-color: #00f;
+    border-radius: 10px;
+    padding: 20px;
+    color: #fff;
+    font-size: 20px;
+}
+
+.item7 {
+    background-color: #0f0;
+    color: #000;
+
+    grid-column-start: 3;
+    grid-column-end: 4;
+    grid-row-start: 1;
+    grid-row-end: 5;
+}
+/*grid-column-start:3 , grid-column-end:4, grid-row-start:1 e grid-row-end:6 também podem ser escritos na forma grid-column: 3/4 e grid-row: 1/6*/
+.item5 {
+    background-color: #f00;
+    grid-column: 1/3;
+    grid-row: 4/5;
+}
+/* O span vai contar a posição que um item específico do grid vai terminar a partir de sua posição*/
+.item10 {
+    grid-column: 2/ span 2;
+    grid-row: 5/span 2;
+}

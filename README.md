@@ -1,2 +1,4 @@
 # Estudos
-Estou aprendendo a programar e vou gerenciar meus repositórios
+ HTML 5 e CSS 3
+
+Estou aprendendo a criar sites e agora vou gerenciar meus repositórios

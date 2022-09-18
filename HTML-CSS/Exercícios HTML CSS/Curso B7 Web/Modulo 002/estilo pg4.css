@@ -1,0 +1,35 @@
+    @charset "UTF-8";
+
+    #titulo {
+        color: green;
+    }
+
+    .texto {
+        color: #f00;
+    }
+
+    img {
+        width: 200px;
+    }
+
+    li {
+        font-weight: bold;
+        color: #8a2be2;
+    }
+    <!-- -->
+    nome_do_elemento {
+
+    }
+
+    #id_do_elemento {
+
+    }
+
+    .class_do_elemento {
+
+    }
+
+    elemento, outro_elemento {
+
+    }
+    -->

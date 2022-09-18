@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Tag section, article, aside, time (sem efeitos visuais, apenas semânticos)</h1>
+    <article>
+        frutas
+    </article>
+    <section>
+        bananas
+    </section>
+    <aside>
+        frutas não-frutas (tomates)
+    </aside>
+    O <time datetime="2022-08-02">dia da fruta</time> é hoje!
+
+    <h1>Tags de input e placeholder</h1>
+    <form action="post">
+        input search
+        <input type="search" name="search" placeholder="Pesquisar...">
+        <br>
+        input email
+        <input type="email" name="email" placeholder="E-mail" required>
+        <br>
+        input url
+        <input type="url" name="url" placeholder="url">
+        <br>
+        input tel
+        <input type="tel" name="tel" placeholder="telefone">
+        <br>
+        input number
+        <input type="number" name="number" placeholder="número">
+        <br>
+        input range
+        <input type="range" name="range">
+        <br>
+        input date
+        <input type="date" name="date">
+        <br>
+        input month
+        <input type="month" name="month">
+        <br>
+        input week
+        <input type="week" name="week">
+        <br>
+        input time
+        <input type="time" name="time">
+        <br>
+        input date-time
+        <input type="datetime-local" name="datetime-local">
+        <br>
+        input color
+        <input type="color" name="color">
+        <br>
+        input date
+        <input type="date" name="date">
+        <br>
+        input send
+        <input type="submit" value="Enviar">
+    </form>
+
+    <h1>Atributo data</h1>
+    <div data-nome="Yasmin" data-sobrenome="Feliciano">Oi, tudo bom?</div>
+    <div data-tipo-pagina="blog" data-sobrenome="jujuba e make">Oi, blog jujuba</div>
+
+    <h1>Video</h1>
+    <video width="500" height="500" autoplay controls>
+        <source src="arquivos/video.mp4" type="video/mp4">
+    </video>
+
+    <h1>Audio</h1>
+    <audio controls preload>
+        <source src="som.mp3" type="audio/mpeg">
+    </audio>
+</body>
+</html>

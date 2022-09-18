@@ -1,0 +1,60 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 0px;
+}
+
+table {
+    width: 400px;
+}
+
+td {
+    border: 1px solid black;
+    padding: 8px;
+}
+
+tr:nth-child(2n) {
+    background-color: red;
+}
+
+div {
+    text-align: center;
+    padding: 30px;
+}
+
+input[type="button"] {
+    background-color: #268ad3;
+    color: #fff;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    text-shadow: 1px 1px #777;
+    padding:10px 20px;
+    margin: auto;
+    border: none;
+    border-radius: 10px;
+    box-shadow: 0px 1px 3px #777;
+}
+
+input:hover {
+    background-color: #4ea2df;
+}
+
+div.selo {
+    background-color: #268ad3;
+    display: inline-block;
+    position: fixed;
+    left: -120px;
+    top: 45px;
+    padding: 0px 50px;
+    transform: rotate(-45deg);
+}
+
+
+p {
+    text-shadow: 1px 1px #777;
+    font-size: 12px;
+    color: #fff;
+    text-shadow: 1px 0px 3px #777;
+    padding: 10px 100px ;
+    border-top: 2px solid #fff;
+    border-bottom: 2px solid #fff;
+}

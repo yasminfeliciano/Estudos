@@ -1,0 +1,27 @@
+.container {
+    background-color: #ccc;
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    grid-gap:10px;
+}
+
+.item {
+    background-color: #00f;
+    border-radius: 10px;
+    padding: 20px;
+    color: #fff;
+    font-size: 20px;
+}
+/*A ordem dos parâmetros do grid-area é:
+    1. grid-row-start
+    2. grid-column-start
+    3. grid-row-end
+    4. grid-column-end
+*/
+.item1 {
+    grid-area: 1/1/span 2/span 2;
+}
+
+.item6 {
+    grid-area: 4/2/6/4;
+}

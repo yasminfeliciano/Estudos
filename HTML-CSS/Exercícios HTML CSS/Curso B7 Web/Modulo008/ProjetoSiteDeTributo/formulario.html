@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formulário de contato</title>
+    <link rel="stylesheet" href="styleform.css">
+</head>
+<body>
+    <header>
+        <div class="main_title"></div>
+    </header>
+    <main>
+        <section id="banner">
+            <div class="container column">
+                <div class="banner_headline">
+                    <h1>Entre em contato conosco...</h1>
+                    <h2>Preencha nosso formulário e seja atualizado com as novidades semanalmente!</h2>
+                </div>
+
+                <div class="banner_form">
+                    <div class="form_legends">
+                    </div>
+                    <div class="formu">
+                        <form action="post">
+                            <p class="legend">Nome Completo:</p>
+                        </br>
+                            <input type="text" name="text" placeholder="Digite seu nome">
+                        </br>
+                            <p class="legend">Data de Nascimento:</p>
+                        </br>
+                            <input type="date" name="date">
+                        </br>
+                            <p class="legend">Telefone Para Contato:</p>
+                        </br>
+                            <input type="tel" name="tel" placeholder="Número de telefone">
+                        </br>
+                            <p class="legend">E-mail:</p>
+                        </br>    
+                            <input type="email" name="email" placeholder="exemplo@email.com" required>
+                        </br>
+                            <p class="legend">Com que frequência você gostaria de receber nossos emails:</p>
+                        </br>
+                            <input type="range" name="range" min="diariamente" max="semanalmente" value="três vezes por semana" class="range" id="campo" diseable>
+                        </br>
+                            <p class="legend">Que cor de brinde você prefere:</p>
+                        </br>
+                            <input type="color" name="color" class="cor">
+                        </br>
+                            <p class="legend">Defina sua senha:</p>
+                        </br>
+                            <input type="password" name="password" placeholder="Digite a senha">
+                        </br>
+                            <p class="legend">Confirme sua senha:</p>
+                        <br/>
+                            <input type="password" name="confirm password" placeholder="Confirmar senha">
+                        </br>
+                            <div class="envia"><input type="submit" value="Enviar" id="enviar"></div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </section>
+        </main>
+        <div class="footer_divisa"></div>
+        <footer>
+            <div class="container flexColumn">
+                <div class="footer_menu">
+                    <div class="fm_1">
+                        <a href="">Detalhes da Vida</a>
+                    </div>
+                    <div class="fm_2">
+                        <a href="">Filmes Estrelados</a>
+                    </div>
+                    <div class="fm_3">
+                        <a href="">Símbolo Sexual</a>
+                    </div>
+                </div>
+                <div class="footer_area">
+                    <div class="footer_areaitem">
+                        <div class="widget">
+                            <div class="widget_title">
+                                <div class="widget_title_text">Conheça detalhes da vida da atriz</div>
+                                <div class="widget_title_bar"></div>
+                            </div>
+                            <div class="widget_body">
+                                Continua...
+                            </div>
+                        </div>
+                    </div>
+                    <div class="footer_areaitem">
+                        <div class="widget">
+                            <div class="widget_title">
+                                <div class="widget_title_text">Conheça os filmes estrelados</div>
+                                <div class="widget_title_bar"></div>
+                            </div>
+                            <div class="widget_body">
+                                Continua...
+                            </div>
+                        </div>
+                    </div>
+                    <div class="footer_areaitem">
+                        <div class="widget">
+                            <div class="widget_title">
+                                <div class="widget_title_text">Como se tornou sinônimo de sensualidade</div>
+                                <div class="widget_title_bar"></div>
+                            </div>
+                            <div class="widget_body">
+                                Continua...
+                            </div>
+                        </div>
+                    </div>
+                </div>
+    
+                <div class="made_by">
+                    Site Criado por <strong>Yasmin F. P. S. de Lima</strong>.
+                </div>
+                <div class="footer_copy">
+                    Copyright - Todos os direitos reservados.
+                </div>
+            </div>
+        </footer>
+</body>
+</html>
