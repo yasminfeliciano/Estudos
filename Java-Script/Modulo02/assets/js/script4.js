@@ -15,13 +15,14 @@ console.log(somarr(10, 5));
 const somarrr = (x, y) => x + y;
 console.log(somarrr(10, 5));
 
-//Outro exemplo com sobrenome
+//Outro exemplo, agora com sobrenome
 function sobrenome(sob)
 {
     return 'Bonieky '+ sob;
 }
 console.log(sobrenome('Lacerda'));
 
+//Funções com uma variável apenas não precisa colocar parêntese, mas por padronização vamos colocar "(sob)".
 //Agora resumida
 const sobrenomee = (sob) => 'Bonieky '+ sob;
 console.log(sobrenomee('Lacerda'));
