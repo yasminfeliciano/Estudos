@@ -62,3 +62,27 @@ let anotherList = ['alguma coisa', 'outra coisa', ['coisa a', 'coisa b']];
 console.log(anotherList[2]);
 //Aqui quero apenas exibir a 'coisa a' que está num 'Array' dentro de outro 'Array'
 console.log(anotherList[2][0]);
+
+
+
+let ingredientes = [
+    'agua',
+    'farinha',
+    'ovo',
+    'corante',
+    'sal',
+]
+
+//Quando se usa a função 'push' se adiciona itens à lista que automaticamente terão índices sucessores do último item da lista.(Ex: 0, 1, 2, 3, 4, => 5) Ítem 5 adicionado.
+ingredientes.push('cebolinha');
+
+//Quando se usa a função 'pop' se remove o último item da lista.(Ex: 0, 1, 2, 3, 4, <= 5) Ítem 5 removido.
+ingredientes.pop();
+
+//Quando se usa a função 'shift' se remove o primeiro item da lista.(Ex: 0 <= , 1, 2, 3, 4, 5) Ítem 0 removido.
+ingredientes.shift();
+
+//Quando se coloca um item que seu índice não segue a ordem, ou seja, não é sucessor do último índice, ele entende que os índices anteriores são vazios e segue a contagem a partir do item adicionado por último.(Ex: 0, 1, 2, 3, 4, 5, (6 = item vazio) => 7)
+ingredientes[7] = 'cebola';
+
+console.log(`Total de ingredientes: ${ingredientes.length}`);

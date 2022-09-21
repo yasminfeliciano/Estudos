@@ -23,7 +23,8 @@ switch (profession)
     case 'policial':
         console.log("Sua camisa será AZUL");
     break;
-    default:    //O 'defaut'(padrão) é uma condicional para quando nenhuma outra for satisfeita como o 'else' sozinho, que funciona caso 'if' não seja satisfeito.
+    //O 'defaut'(padrão) é uma condicional para quando nenhuma outra for satisfeita como o 'else' sozinho, que funciona caso 'if' não seja satisfeito.
+    default:    
         console.log("Sua camisa será PRETA");
     break;
 }
