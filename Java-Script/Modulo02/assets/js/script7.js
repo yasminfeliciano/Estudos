@@ -51,4 +51,4 @@ let personagem2 = {
 }
 
 // personagem é uma variável, carros é um array e modelo é um objeto
-console.log(personagem.carros[1].modelo);
+console.log(personagem2.carros[1].modelo);
