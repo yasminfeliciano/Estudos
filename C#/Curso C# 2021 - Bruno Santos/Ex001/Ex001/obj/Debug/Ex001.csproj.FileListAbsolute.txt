@@ -1,0 +1,7 @@
+D:\YASMIN\Estudos\C#\Curso C# 2021 - Bruno Santos\Ex001\Ex001\obj\Debug\Ex001.csproj.AssemblyReference.cache
+D:\YASMIN\Estudos\C#\Curso C# 2021 - Bruno Santos\Ex001\Ex001\obj\Debug\Ex001.csproj.CoreCompileInputs.cache
+D:\YASMIN\Estudos\C#\Curso C# 2021 - Bruno Santos\Ex001\Ex001\bin\Debug\Ex001.exe.config
+D:\YASMIN\Estudos\C#\Curso C# 2021 - Bruno Santos\Ex001\Ex001\bin\Debug\Ex001.exe
+D:\YASMIN\Estudos\C#\Curso C# 2021 - Bruno Santos\Ex001\Ex001\bin\Debug\Ex001.pdb
+D:\YASMIN\Estudos\C#\Curso C# 2021 - Bruno Santos\Ex001\Ex001\obj\Debug\Ex001.exe
+D:\YASMIN\Estudos\C#\Curso C# 2021 - Bruno Santos\Ex001\Ex001\obj\Debug\Ex001.pdb

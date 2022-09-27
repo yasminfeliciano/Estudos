@@ -1,0 +1,7 @@
+D:\YASMIN\Estudos\C#\Curso C# 2021 - Bruno Santos\ExemploCicloFor\ExemploCicloFor\bin\Debug\ExemploCicloFor.exe.config
+D:\YASMIN\Estudos\C#\Curso C# 2021 - Bruno Santos\ExemploCicloFor\ExemploCicloFor\bin\Debug\ExemploCicloFor.exe
+D:\YASMIN\Estudos\C#\Curso C# 2021 - Bruno Santos\ExemploCicloFor\ExemploCicloFor\bin\Debug\ExemploCicloFor.pdb
+D:\YASMIN\Estudos\C#\Curso C# 2021 - Bruno Santos\ExemploCicloFor\ExemploCicloFor\obj\Debug\ExemploCicloFor.csproj.AssemblyReference.cache
+D:\YASMIN\Estudos\C#\Curso C# 2021 - Bruno Santos\ExemploCicloFor\ExemploCicloFor\obj\Debug\ExemploCicloFor.csproj.CoreCompileInputs.cache
+D:\YASMIN\Estudos\C#\Curso C# 2021 - Bruno Santos\ExemploCicloFor\ExemploCicloFor\obj\Debug\ExemploCicloFor.exe
+D:\YASMIN\Estudos\C#\Curso C# 2021 - Bruno Santos\ExemploCicloFor\ExemploCicloFor\obj\Debug\ExemploCicloFor.pdb

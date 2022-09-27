@@ -1,0 +1,7 @@
+D:\YASMIN\Estudos\C#\Curso C# 2021 - Bruno Santos\ExemploCicloWhile\ExemploCicloWhile\obj\Debug\ExemploCicloWhile.csproj.CoreCompileInputs.cache
+D:\YASMIN\Estudos\C#\Curso C# 2021 - Bruno Santos\ExemploCicloWhile\ExemploCicloWhile\bin\Debug\ExemploCicloWhile.exe.config
+D:\YASMIN\Estudos\C#\Curso C# 2021 - Bruno Santos\ExemploCicloWhile\ExemploCicloWhile\bin\Debug\ExemploCicloWhile.exe
+D:\YASMIN\Estudos\C#\Curso C# 2021 - Bruno Santos\ExemploCicloWhile\ExemploCicloWhile\bin\Debug\ExemploCicloWhile.pdb
+D:\YASMIN\Estudos\C#\Curso C# 2021 - Bruno Santos\ExemploCicloWhile\ExemploCicloWhile\obj\Debug\ExemploCicloWhile.exe
+D:\YASMIN\Estudos\C#\Curso C# 2021 - Bruno Santos\ExemploCicloWhile\ExemploCicloWhile\obj\Debug\ExemploCicloWhile.pdb
+D:\YASMIN\Estudos\C#\Curso C# 2021 - Bruno Santos\ExemploCicloWhile\ExemploCicloWhile\obj\Debug\ExemploCicloWhile.csproj.AssemblyReference.cache
