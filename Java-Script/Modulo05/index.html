@@ -7,11 +7,22 @@
     <title>Curso de Javascript</title>
 </head>
 <body>
-    <h1 id="titulo">Seja bem vindo(a)!</h1>
+    <h1 id="titulo" onclick="console.log('clicou')" onmouseover="console.log('Passou o mouse')" onmouseout="console.log('tirou o mouse')">Seja bem vindo(a)!</h1>
 
-    <input id="campo" type="text" name="usuario" value="Nome do usuário"/>
+    <h1 id="titulo2">Olá, pessoal!</h1>
 
     <button onclick="clicou()">Clique em mim</button>
+
+    <!--Também é possível escrever o script inline, assim como o css.-->
+    <button onclick="document.getElementById('titulo2').innerHTML = 'TEXTO 2'">Clique em mim também</button>
+
+    <button onclick="this.innerHTML = 'E agora vc clicou!'">Aqui tem um outro botão</button>
+
+    <br/>
+
+    <input onkeyup="digitou()" id="campo" type="text" name="usuario" value="Nome do usuário"/>
+
+    <input onkeyup="digitou2(event)" type="text" id="campo" name="usuario">
 
     <script src="assets/js/script.js"></script>
 </body>

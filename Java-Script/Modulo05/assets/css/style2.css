@@ -1,0 +1,31 @@
+body {
+    background-color: #eee;
+}
+
+input [type = text] {
+    padding: 10px;
+    font-size: 14px;
+}
+
+.azul {
+    background-color: #00f;
+    color: #fff
+}
+
+.vermelho {
+    background-color: #f00;
+    color:#fff
+}
+
+.verde {
+    background-color: #0f0;
+    color:#000
+}
+
+.oculto {
+    display: none;
+}
+
+#telefone {
+    display: none;
+}
