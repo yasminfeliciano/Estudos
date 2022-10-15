@@ -1,0 +1,7 @@
+D:\YASMIN\Estudos\C#\Curso C# 2021 - Bruno Santos\CriacaoDeMetodos\CriacaoDeMetodos\bin\Debug\CriacaoDeMetodos.exe.config
+D:\YASMIN\Estudos\C#\Curso C# 2021 - Bruno Santos\CriacaoDeMetodos\CriacaoDeMetodos\bin\Debug\CriacaoDeMetodos.exe
+D:\YASMIN\Estudos\C#\Curso C# 2021 - Bruno Santos\CriacaoDeMetodos\CriacaoDeMetodos\bin\Debug\CriacaoDeMetodos.pdb
+D:\YASMIN\Estudos\C#\Curso C# 2021 - Bruno Santos\CriacaoDeMetodos\CriacaoDeMetodos\obj\Debug\CriacaoDeMetodos.csproj.AssemblyReference.cache
+D:\YASMIN\Estudos\C#\Curso C# 2021 - Bruno Santos\CriacaoDeMetodos\CriacaoDeMetodos\obj\Debug\CriacaoDeMetodos.csproj.CoreCompileInputs.cache
+D:\YASMIN\Estudos\C#\Curso C# 2021 - Bruno Santos\CriacaoDeMetodos\CriacaoDeMetodos\obj\Debug\CriacaoDeMetodos.exe
+D:\YASMIN\Estudos\C#\Curso C# 2021 - Bruno Santos\CriacaoDeMetodos\CriacaoDeMetodos\obj\Debug\CriacaoDeMetodos.pdb

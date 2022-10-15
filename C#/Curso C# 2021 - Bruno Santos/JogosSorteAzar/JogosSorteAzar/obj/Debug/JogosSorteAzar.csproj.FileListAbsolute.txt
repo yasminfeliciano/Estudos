@@ -1,0 +1,7 @@
+D:\YASMIN\Estudos\C#\Curso C# 2021 - Bruno Santos\JogosSorteAzar\JogosSorteAzar\bin\Debug\JogosSorteAzar.exe.config
+D:\YASMIN\Estudos\C#\Curso C# 2021 - Bruno Santos\JogosSorteAzar\JogosSorteAzar\bin\Debug\JogosSorteAzar.exe
+D:\YASMIN\Estudos\C#\Curso C# 2021 - Bruno Santos\JogosSorteAzar\JogosSorteAzar\bin\Debug\JogosSorteAzar.pdb
+D:\YASMIN\Estudos\C#\Curso C# 2021 - Bruno Santos\JogosSorteAzar\JogosSorteAzar\obj\Debug\JogosSorteAzar.csproj.AssemblyReference.cache
+D:\YASMIN\Estudos\C#\Curso C# 2021 - Bruno Santos\JogosSorteAzar\JogosSorteAzar\obj\Debug\JogosSorteAzar.csproj.CoreCompileInputs.cache
+D:\YASMIN\Estudos\C#\Curso C# 2021 - Bruno Santos\JogosSorteAzar\JogosSorteAzar\obj\Debug\JogosSorteAzar.exe
+D:\YASMIN\Estudos\C#\Curso C# 2021 - Bruno Santos\JogosSorteAzar\JogosSorteAzar\obj\Debug\JogosSorteAzar.pdb
