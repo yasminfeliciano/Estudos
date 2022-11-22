@@ -1,0 +1,7 @@
+D:\YASMIN\Estudos\C#\Curso C# 2021 - Bruno Santos\Arrays\Arrays\bin\Debug\Arrays.exe.config
+D:\YASMIN\Estudos\C#\Curso C# 2021 - Bruno Santos\Arrays\Arrays\bin\Debug\Arrays.exe
+D:\YASMIN\Estudos\C#\Curso C# 2021 - Bruno Santos\Arrays\Arrays\bin\Debug\Arrays.pdb
+D:\YASMIN\Estudos\C#\Curso C# 2021 - Bruno Santos\Arrays\Arrays\obj\Debug\Arrays.csproj.AssemblyReference.cache
+D:\YASMIN\Estudos\C#\Curso C# 2021 - Bruno Santos\Arrays\Arrays\obj\Debug\Arrays.csproj.CoreCompileInputs.cache
+D:\YASMIN\Estudos\C#\Curso C# 2021 - Bruno Santos\Arrays\Arrays\obj\Debug\Arrays.exe
+D:\YASMIN\Estudos\C#\Curso C# 2021 - Bruno Santos\Arrays\Arrays\obj\Debug\Arrays.pdb

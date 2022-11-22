@@ -1,0 +1,14 @@
+REQUISIÇÕES
+
+Requisições são informações que são solicitadas pelo usuário através do computador.
+
+Quando o usuário acessa um site específico, o Google por exemplo, o computador do usuário faz uma requisição aos servidores do Google e exibe os resultados daquela requisição na tela do usuário.
+
+Todas essas requisições podem ser arquivos do tipo javascript, html, css, imagens, vídeos, etc. E assim elas montam a página que o usuário está acessando. Mensagens de texto no chat são chamadas requisições internas.
+
+Até mesmo as sugestões do Google que o usuário não solicitou, ou não está na página naquele momento são consideradas requisições, pois estão sendo chamadas para o computador.
+
+
+JSON - Javascript Object Notation
+
+O JSON é uma sintaxe de objeto usado para fazer a comunicação entre as requisições. Serve tanto para guardar, como também para receber e enviar informações.
