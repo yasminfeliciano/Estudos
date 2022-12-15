@@ -1,0 +1,7 @@
+D:\YASMIN\Estudos_repo\Estudos\C#\Curso C# 2021 - Bruno Santos\POO-CriacaoDeObjetoEConstrutor\POO-CriacaoDeObjetoEConstrutor\obj\Debug\POO-CriacaoDeObjetoEConstrutor.csproj.AssemblyReference.cache
+D:\YASMIN\Estudos_repo\Estudos\C#\Curso C# 2021 - Bruno Santos\POO-CriacaoDeObjetoEConstrutor\POO-CriacaoDeObjetoEConstrutor\obj\Debug\POO-CriacaoDeObjetoEConstrutor.csproj.CoreCompileInputs.cache
+D:\YASMIN\Estudos_repo\Estudos\C#\Curso C# 2021 - Bruno Santos\POO-CriacaoDeObjetoEConstrutor\POO-CriacaoDeObjetoEConstrutor\bin\Debug\POO-CriacaoDeObjetoEConstrutor.exe.config
+D:\YASMIN\Estudos_repo\Estudos\C#\Curso C# 2021 - Bruno Santos\POO-CriacaoDeObjetoEConstrutor\POO-CriacaoDeObjetoEConstrutor\bin\Debug\POO-CriacaoDeObjetoEConstrutor.exe
+D:\YASMIN\Estudos_repo\Estudos\C#\Curso C# 2021 - Bruno Santos\POO-CriacaoDeObjetoEConstrutor\POO-CriacaoDeObjetoEConstrutor\bin\Debug\POO-CriacaoDeObjetoEConstrutor.pdb
+D:\YASMIN\Estudos_repo\Estudos\C#\Curso C# 2021 - Bruno Santos\POO-CriacaoDeObjetoEConstrutor\POO-CriacaoDeObjetoEConstrutor\obj\Debug\POO-CriacaoDeObjetoEConstrutor.exe
+D:\YASMIN\Estudos_repo\Estudos\C#\Curso C# 2021 - Bruno Santos\POO-CriacaoDeObjetoEConstrutor\POO-CriacaoDeObjetoEConstrutor\obj\Debug\POO-CriacaoDeObjetoEConstrutor.pdb

@@ -30,7 +30,7 @@ namespace Placar
         private void InitializeComponent()
         {
             this.components = new System.ComponentModel.Container();
-            this.bt_comecarjogo = new System.Windows.Forms.Button();
+            System.Windows.Forms.Button bt_comecarjogo;
             this.lbl_cronometro = new System.Windows.Forms.Label();
             this.lbl_nomeClube1 = new System.Windows.Forms.Label();
             this.lbl_nomeClube2 = new System.Windows.Forms.Label();
@@ -44,19 +44,22 @@ namespace Placar
             this.pb_clube1 = new System.Windows.Forms.PictureBox();
             this.cronometro = new System.Windows.Forms.Timer(this.components);
             this.lbl_parte = new System.Windows.Forms.Label();
+            this.openFileDialog1 = new System.Windows.Forms.OpenFileDialog();
+            this.saveFileDialog1 = new System.Windows.Forms.SaveFileDialog();
+            bt_comecarjogo = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.pb_clube2)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pb_clube1)).BeginInit();
             this.SuspendLayout();
             // 
             // bt_comecarjogo
             // 
-            this.bt_comecarjogo.Location = new System.Drawing.Point(298, 264);
-            this.bt_comecarjogo.Name = "bt_comecarjogo";
-            this.bt_comecarjogo.Size = new System.Drawing.Size(133, 36);
-            this.bt_comecarjogo.TabIndex = 12;
-            this.bt_comecarjogo.Text = "Começar Jogo";
-            this.bt_comecarjogo.UseVisualStyleBackColor = true;
-            this.bt_comecarjogo.Click += new System.EventHandler(this.bt_comecarJogo_Click);
+            bt_comecarjogo.Location = new System.Drawing.Point(298, 264);
+            bt_comecarjogo.Name = "bt_comecarjogo";
+            bt_comecarjogo.Size = new System.Drawing.Size(133, 36);
+            bt_comecarjogo.TabIndex = 12;
+            bt_comecarjogo.Text = "Começar Jogo";
+            bt_comecarjogo.UseVisualStyleBackColor = true;
+            bt_comecarjogo.Click += new System.EventHandler(this.bt_comecarJogo_Click);
             // 
             // lbl_cronometro
             // 
@@ -189,12 +192,16 @@ namespace Placar
             this.lbl_parte.TabIndex = 11;
             this.lbl_parte.Text = "1ª Parte";
             // 
+            // openFileDialog1
+            // 
+            this.openFileDialog1.FileName = "openFileDialog1";
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(713, 692);
-            this.Controls.Add(this.bt_comecarjogo);
+            this.Controls.Add(bt_comecarjogo);
             this.Controls.Add(this.lbl_parte);
             this.Controls.Add(this.bt_menosClube2);
             this.Controls.Add(this.bt_maisClube2);
@@ -231,9 +238,10 @@ namespace Placar
         private System.Windows.Forms.Button bt_menosClube1;
         private System.Windows.Forms.Button bt_maisClube2;
         private System.Windows.Forms.Button bt_menosClube2;
-        private System.Windows.Forms.Button bt_comecarjogo;
         private System.Windows.Forms.Timer cronometro;
         private System.Windows.Forms.Label lbl_parte;
+        private System.Windows.Forms.OpenFileDialog openFileDialog1;
+        private System.Windows.Forms.SaveFileDialog saveFileDialog1;
     }
 }
 

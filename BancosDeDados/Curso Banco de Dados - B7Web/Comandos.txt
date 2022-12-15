@@ -1,0 +1,87 @@
+SELECT - Comando utilizado para selecionar dados de uma ou mais colunas.
+    Ex1: SELECT nome FROM produtos;
+    Ex2: SELECT * FROM produtos;
+
+FROM - Precede a tabela da qual o SELECT está selecionando.
+    Ex1: SELECT nome, preco FROM produtos;
+    Ex2: SELECT * FROM produtos; 
+
+* - Representa a seleção de todos os itens.
+    Ex1: SELECT * FROM produtos;
+    Ex2: SELECT * FROM fornecedor;
+
+WHERE - Filtra os dados de acordo com uma condicional.
+    Ex1: SELECT * FROM produtos WHERE id_fornecedor = 6;
+    Ex2: SELECT * FROM usuarios WHERE nome = 'Bonieky Lacerda'; (strings precisam de aspas e a pesquisa ser exatamente igual)
+
+> - Operador que seleciona itens com valor maior que um valor específico e pode ser usado em conjunto com o =.
+    Ex1: SELECT * FROM produtos WHERE preco > 200;
+    Ex2: SELECT * FROM produtos WHERE preco >= 200;
+
+< - Operador que seleciona itens com valor menor que um valor específico e pode ser usado em conjunto com o =.
+    Ex1: SELECT * FROM produtos WHERE estoque < minestoque;
+    Ex2: SELECT * FROM produtos WHERE estoque <= minestoque;
+
+= - Operador que seleciona itens com valor igual a um valor específico e pode ser usado em conjunto com o > e com o <.
+    Ex1: SELECT * FROM produtos WHERE preco = 200;
+    Ex2: SELECT * FROM produtos WHERE preco <= 200;
+
+!= - Operador que seleciona itens com valor diferente de um valor específico.
+    Ex1: SELECT * FROM produtos WHERE preco != 200;
+    Ex2: SELECT * FROM produtos WHERE estoque != minestoque;
+
+AND - Precisa respeitar mais de uma opção como condicional.
+    Ex1: SELECT * FROM produtos WHERE preco > 140 and preco < 1000;
+    Ex2: SELECT * FROM produtos WHERE preco = 140 AND estoque > 10 AND id_fornecedor = 3;
+
+OR - Precisa respeitar uma ou outra opção como condicional.
+    Ex1: SELECT * FROM produtos WHERE preco = 140 OR preco = 200;
+    Ex2: SELECT * FROM produtos WHERE (preco > 200 AND preco < 1000) OR id_fornecedor = 6;
+
+LIKE - Permite uma maior flexibilidade na pesquisa de itens do tipo string. Pode ser usado no começo, no meio e no final da frase.
+    Ex1: SELECT * FROM usuarios WHERE nome LIKE 'bonieky %';
+    Ex2: SELECT * FROM usuarios WHERE nome LIKE '%eatr%';
+
+BETWEEN - Seleciona itens entre dois valores específicos. Funciona como os operadores de > e <.
+    Ex1: SELECT * FROM produtos WHERE estoque BETWEEN 5 AND 10;
+    Ex2: SELECT * FROM produtos WHERE minestoque BETWEEN 1 AND 15;
+
+IN () - Seleciona itens com valores específicos. Funciona como o operador de =.
+    Ex1: SELECT * FROM produtos WHERE id_fornecedor IN(1);
+    Ex2: SELECT * FROM produtos WHERE id_fornecedor IN(1, 6, 3);
+
+ORDER BY - Organiza os itens de acordo com uma condição.
+    Ex1: SELECT * FROM produtos ORDER BY estoque ASC;
+    Ex2: SELECT * FROM usuarios ORDER BY nome ASC;
+
+
+ASC - Organiza em ordem ascendente, é utilizado com o ORDER BY.
+    Ex1: SELECT * FROM produtos ORDER BY estoque ASC;
+    Ex2: SELECT * FROM usuarios WHERE id > 13 ORDER BY nome ASC;
+
+DESC - Organiza em ordem Descendente, é utilizado com o ORDER BY.
+    Ex1: SELECT * FROM produtos ORDER BY estoque DESC;
+    Ex2: SELECT * FROM produtos ORDER BY minestoque DESC, nome ASC;
+
+LIMIT - Limita a quantidade de resultados exibidos.
+    Ex1: SELECT * FROM produtos LIMIT 2, 4. (Pula os 2 primeiros itens e pega os próximos 4 itens)
+    Ex1: SELECT * FROM produtos WHERE id_fornecedor = 6 ORDER BY estoque DESC LIMIT 5.
+
+COUNT() - Conta a quantidade de itens.
+    Ex1: SELECT COUNT(*) FROM produtos;
+    Ex2: SELECT COUNT(*) FROM produtos WHERE id_fornecedor = 6;
+
+AS - Visualização como nome da lista que está sendo gerada.
+    Ex1: SELECT COUNT(*) AS contagem FROM produtos;
+    Ex2: SELECT COUNT(*) AS contagem_preco FROM produtos WHERE preco < 200;
+
+AVG() - Média dos valores dos itens.
+    Ex1: SELECT AVG(preco) FROM produtos;
+    Ex2: SELECT AVG(preco) AS media, COUNT(*) AS total FROM produtos WHERE id_fornecedor = 1;
+
+Sum() - Realiza a soma dos valores dos itens.
+    Ex1: SELECT Sum(estoque) FROM produtos;
+    Ex2: SELECT AVG(preco) AS media,
+                COUNT(*) AS total,
+                Sum(estoque) As soma
+         FROM produtos WHERE id_fornecedor = 6;

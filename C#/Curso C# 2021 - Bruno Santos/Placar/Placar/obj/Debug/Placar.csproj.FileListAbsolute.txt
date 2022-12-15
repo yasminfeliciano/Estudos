@@ -8,3 +8,13 @@ D:\YASMIN\Estudos\C#\Curso C# 2021 - Bruno Santos\Placar\Placar\obj\Debug\Placar
 D:\YASMIN\Estudos\C#\Curso C# 2021 - Bruno Santos\Placar\Placar\obj\Debug\Placar.csproj.CoreCompileInputs.cache
 D:\YASMIN\Estudos\C#\Curso C# 2021 - Bruno Santos\Placar\Placar\obj\Debug\Placar.exe
 D:\YASMIN\Estudos\C#\Curso C# 2021 - Bruno Santos\Placar\Placar\obj\Debug\Placar.pdb
+D:\YASMIN\Estudos_repo\Estudos\C#\Curso C# 2021 - Bruno Santos\Placar\Placar\bin\Debug\Placar.exe.config
+D:\YASMIN\Estudos_repo\Estudos\C#\Curso C# 2021 - Bruno Santos\Placar\Placar\bin\Debug\Placar.exe
+D:\YASMIN\Estudos_repo\Estudos\C#\Curso C# 2021 - Bruno Santos\Placar\Placar\bin\Debug\Placar.pdb
+D:\YASMIN\Estudos_repo\Estudos\C#\Curso C# 2021 - Bruno Santos\Placar\Placar\obj\Debug\Placar.csproj.AssemblyReference.cache
+D:\YASMIN\Estudos_repo\Estudos\C#\Curso C# 2021 - Bruno Santos\Placar\Placar\obj\Debug\Placar.Form1.resources
+D:\YASMIN\Estudos_repo\Estudos\C#\Curso C# 2021 - Bruno Santos\Placar\Placar\obj\Debug\Placar.Properties.Resources.resources
+D:\YASMIN\Estudos_repo\Estudos\C#\Curso C# 2021 - Bruno Santos\Placar\Placar\obj\Debug\Placar.csproj.GenerateResource.cache
+D:\YASMIN\Estudos_repo\Estudos\C#\Curso C# 2021 - Bruno Santos\Placar\Placar\obj\Debug\Placar.csproj.CoreCompileInputs.cache
+D:\YASMIN\Estudos_repo\Estudos\C#\Curso C# 2021 - Bruno Santos\Placar\Placar\obj\Debug\Placar.exe
+D:\YASMIN\Estudos_repo\Estudos\C#\Curso C# 2021 - Bruno Santos\Placar\Placar\obj\Debug\Placar.pdb

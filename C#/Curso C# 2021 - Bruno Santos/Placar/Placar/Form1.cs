@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
 using System.Drawing;
+using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -15,8 +16,61 @@ namespace Placar
         public Form1()
         {
             InitializeComponent();
+            CarregarFicheiro();
             CarregarImagem(pb_clube1, lbl_nomeClube1.Text);
-            CarregarImagem(pb_clube2, lbl_nomeClube2.Text);
+            CarregarImagem(pb_clube2, lbl_nomeClube2.Text);   
+        }
+
+        private void CarregarFicheiro()
+        {
+            //string texto = File.ReadAllText("jogo.txt", Encoding.UTF8);
+
+            string texto = "";
+
+            OpenFileDialog openFileDialog1 = new OpenFileDialog();
+            if (openFileDialog1.ShowDialog() == DialogResult.OK)
+            {
+                texto = File.ReadAllText(openFileDialog1.FileName);
+            }
+
+            string[] parms = texto.Split(';');
+
+            lbl_nomeClube1.Text = parms[0];
+            lbl_nomeClube2.Text = parms[1];
+            lbl_resultadoClube1.Text = parms[2];
+            lbl_resultadoClube2.Text = parms[3];
+            min = int.Parse(parms[4]);
+            seg = int.Parse(parms[5]);
+
+            texto = "";
+            if (min < 10)
+            {
+                texto += "0" + min;
+            }
+            else
+            {
+                texto += min;
+            }
+
+            if (seg < 10)
+            {
+                texto += ":0" + seg;
+            }
+            else
+            {
+                texto += ":" + seg;
+            }
+
+            lbl_cronometro.Text = texto;
+
+            if (min < 45)
+            {
+                lbl_parte.Text = "1ª Parte";
+            }
+            else
+            {
+                lbl_parte.Text = "2ª Parte";
+            }
         }
 
         private void CarregarImagem(PictureBox pb_clube, string text)
@@ -85,6 +139,24 @@ namespace Placar
         {
             if (min == 90)
             {
+                string resultadoFinal = lbl_nomeClube1.Text + ";" + lbl_nomeClube2.Text + ";" + lbl_resultadoClube1.Text + ";" + lbl_resultadoClube2.Text + ";" + min + ";" + seg;
+
+                //File.WriteAllText("jogo.txt", resultadoFinal);
+
+                Stream myStream;
+                SaveFileDialog saveFileDialog1 = new SaveFileDialog();
+                saveFileDialog1.Filter = "txt files (*.txt) | *.txt|All files (*.*)|*.*";
+                saveFileDialog1.FilterIndex = 2;
+                saveFileDialog1.RestoreDirectory = true;
+                if (saveFileDialog1.ShowDialog() == DialogResult.OK)
+                {
+                    if((myStream = saveFileDialog1.OpenFile()) != null)
+                    {
+                        myStream.Close();
+                    }
+                    File.WriteAllText(saveFileDialog1.FileName, resultadoFinal);
+                }
+
                 min = 0;
                 seg = 0;
                 lbl_cronometro.Text = "00:00";
