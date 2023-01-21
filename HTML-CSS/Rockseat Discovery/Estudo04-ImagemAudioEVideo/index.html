@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <video src="./assets-example/rocket.mp4"></video>
+
+    <video controls width="400" height="400" autoplay preload="auto" loop muted poster="./icon.png">
+        <source src="./assets-example/rocket.mp4" type="video/mp4">
+        <source src="./assets-example/rocket.mp4" type="video/ovg">
+    </video>
+
+    <audio controls autoplay muted loop>
+        <source src="./assets-example/viper.mp3" type="audio/mp3">
+        <source src="./assets-example/viper.mp3" type="audio/ogg">
+    </audio>
+
+    <iframe 
+        width="560" 
+        height="315" 
+        src="https://www.youtube.com/embed/AqJKAJ0TKms" 
+        frameborder="0" 
+        allow="accelerometer; autopplay; encrypted-media; gyroscope; picture-in-picture" 
+        allowfullscreen=""
+        title="Video da Rocketseat">
+    </iframe>
+
+    <iframe 
+        src="LinkDoMapa.com"
+        width="560" 
+        height="315"  
+        frameborder="0" 
+        allowfullscreen
+        aria-hidden="false"
+        tabindex="0">
+    </iframe>
+
+    <a href="https://google.com">
+        <img
+            src="https://source.unsplash.com/random"
+            alt="Imagem de title"
+            title="Colocar um título na imagem"
+            height="250px"
+        >
+    </a>
+
+    <a href="https://rocketseat.com.br">
+        <img
+            src="https://rocketseat.com.br/icons/icon-48x48.png"
+            alt="Texto Alternativo"
+            title="Título da Imagem"
+            height="100px"
+        >
+    </a>
+
+    <figure>
+        <a href="https://google.com">
+            <img
+                src="https://source.unsplash.com/random" alt="Imagem de title"
+                title="Título da Imagem"
+                height="250px"
+            >
+        </a>
+        <figcaption>Colocar um título na imagem</figcaption>
+    </figure>
+
+    <!--
+        SVG <svg>
+        
+        É uma marcação, estilo html, mas não é para textos, e sim para fazer imagens. Possuimos elementos para gerar formas.
+
+        Para entender melhor
+        - Imagem rasterizada x Imagem vetorizada
+
+        Benefícios
+        - Mais leve
+        - Mais detalhada
+        - Maior acessibilidade e SEO
+        - Pode ser editada via CSS ou atributos
+
+        Desvantagens
+        - Pode ser mais complicado de trabalhar
+        - Quanto mais complexa a imagem, mais trabalho para o navegador
+        - Navegadores mais antigos não possuem suporte a essa tag
+
+        Para fotografias, ainda prefira usar imagens rasterizadas (.png, .jpg, .jpeg).
+    -->
+
+    <svg style="background-color: yellow;" width="200" height="200">
+        <circle cx="100" cy="100" r="80" stroke="red" stroke-width="4" fill="blue"/>
+    </svg>
+
+    <svg width="300" height="200">
+        <rect width="100%" stroke="blue" stroke-width="4" height="100%" fill="green"/>
+    </svg>
+    
+    <img src="imagem.svg" alt="">
+</body>
+</html>

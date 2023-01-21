@@ -10,7 +10,7 @@ services:
       - --character-set-server=utf8mb4
       - --collation-server=utf8mb4_unicode_ci
     volumes:
-      - D:\YASMIN\Estudos_repo\Estudos\BancosDeDados\CursoDeSQLComMySQL-OtavioMiranda:/var/lib/mysql
+      - D:\YASMIN\Estudos_repo\Estudos\BancosDeDados\Curso De SQL Com MySQL - Otavio Miranda\SQL-E-KNEX:/var/lib/mysql
     ports:
       - 3306:3306
     environment:

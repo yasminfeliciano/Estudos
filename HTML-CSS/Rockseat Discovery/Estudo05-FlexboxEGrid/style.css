@@ -1,0 +1,47 @@
+.box{
+    width: 50px;
+    height: 50px;
+}
+
+.box1{
+    background-color: #700;
+    /*position: relative;   relativo ao objeto pai
+    position: absolute;   posição absoluta em relação à página
+    position: fixed;    posição fixa na página
+    */
+    position: absolute;
+    top: 5px;
+    left: 5px;
+    z-index: 3;
+}
+
+.box2{
+    background-color: #070;
+    position: absolute;
+    top: 10px;
+    left: 10px;
+}
+
+.box3{
+    background-color: #007;
+    position: absolute;
+    top: 15px;
+    left: 15px;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+}
+
+.box4{
+    background-color: #077;
+}
+
+.box5{
+    background-color: #707;
+}
+
+.box6{
+    background-color: #770;
+}

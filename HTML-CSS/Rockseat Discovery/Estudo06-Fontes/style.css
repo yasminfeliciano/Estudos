@@ -1,0 +1,19 @@
+p{
+    font-family: 'Times New Roman', Times, sans-serif;
+    font-weight: normal;
+    font-size: 22px;
+    font-family: 'Lato', sans-serif;
+    line-height: 2.6;
+    text-transform: capitalize;
+    text-decoration: underline wavy;
+    text-align: center;
+    text-shadow: 1px 1px 1px red,
+                 2px 2px 1px green;
+}
+
+div{
+    font-family: 'Times New Roman', Times, sans-serif;
+    font-weight: normal;
+    font-family: 'Lato', sans-serif;
+    font: italic bold 2em/2 Helvetica, Arial,sans-serif;
+}

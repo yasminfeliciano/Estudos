@@ -1,0 +1,39 @@
+*{
+    margin:0;
+}
+
+body{
+    background-color: #cde;
+    background-image: url(http://source.unsplash.com/random);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: left top;
+    font: bold italic .8em/1.2 Arial, sans-serif;
+    height: 100vh;
+}
+
+#container{
+    height: calc(100% - 40px);
+    width: 100%;
+}
+
+.m-40{
+    margin: 40px;
+}
+
+h1,h2 {
+    color: blue;
+    font-size: 60px;
+    background: linear-gradient(60deg, #eaa,#ddf);
+    border: 1px solid red;
+    margin: 200px;
+    padding: 60px 100px;
+    text-align: center;
+    justify-content: center;
+}
+
+.box::after{
+    content: "aqui vem uma mensagem";
+    color:#cde;
+    font-size: 90px;
+}
