@@ -1,0 +1,10 @@
+D:\YASMIN\Estudos_repo\Estudos\C#\Curso de Programação C# - CFB Cursos\Editor de Texto\bin\Debug\Editor de Texto.exe.config
+D:\YASMIN\Estudos_repo\Estudos\C#\Curso de Programação C# - CFB Cursos\Editor de Texto\bin\Debug\Editor de Texto.exe
+D:\YASMIN\Estudos_repo\Estudos\C#\Curso de Programação C# - CFB Cursos\Editor de Texto\bin\Debug\Editor de Texto.pdb
+D:\YASMIN\Estudos_repo\Estudos\C#\Curso de Programação C# - CFB Cursos\Editor de Texto\obj\Debug\Editor de Texto.csproj.AssemblyReference.cache
+D:\YASMIN\Estudos_repo\Estudos\C#\Curso de Programação C# - CFB Cursos\Editor de Texto\obj\Debug\Editor_de_Texto.Form1.resources
+D:\YASMIN\Estudos_repo\Estudos\C#\Curso de Programação C# - CFB Cursos\Editor de Texto\obj\Debug\Editor_de_Texto.Properties.Resources.resources
+D:\YASMIN\Estudos_repo\Estudos\C#\Curso de Programação C# - CFB Cursos\Editor de Texto\obj\Debug\Editor de Texto.csproj.GenerateResource.cache
+D:\YASMIN\Estudos_repo\Estudos\C#\Curso de Programação C# - CFB Cursos\Editor de Texto\obj\Debug\Editor de Texto.csproj.CoreCompileInputs.cache
+D:\YASMIN\Estudos_repo\Estudos\C#\Curso de Programação C# - CFB Cursos\Editor de Texto\obj\Debug\Editor de Texto.exe
+D:\YASMIN\Estudos_repo\Estudos\C#\Curso de Programação C# - CFB Cursos\Editor de Texto\obj\Debug\Editor de Texto.pdb

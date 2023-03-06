@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32802.440
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CFB_Academia", "CFB_Academia.csproj", "{0591F351-826E-48EE-9E9D-3F06604A466F}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Instalador_CFBAcademia", "instalador\Instalador_CFBAcademia\Instalador_CFBAcademia.vdproj", "{0238A8AD-3DD5-42DC-8AEE-DAA246EACAC9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0591F351-826E-48EE-9E9D-3F06604A466F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0591F351-826E-48EE-9E9D-3F06604A466F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0591F351-826E-48EE-9E9D-3F06604A466F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0591F351-826E-48EE-9E9D-3F06604A466F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0238A8AD-3DD5-42DC-8AEE-DAA246EACAC9}.Debug|Any CPU.ActiveCfg = Debug
+		{0238A8AD-3DD5-42DC-8AEE-DAA246EACAC9}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6C178264-A0C6-464A-B7A1-773A6E5D2204}
+	EndGlobalSection
+EndGlobal

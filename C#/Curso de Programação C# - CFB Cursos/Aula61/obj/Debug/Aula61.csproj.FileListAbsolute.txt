@@ -19,3 +19,16 @@ D:\YASMIN\Estudos_repo\Estudos\C#\Curso de Programação C# - CFB Cursos\Aula61\
 D:\YASMIN\Estudos_repo\Estudos\C#\Curso de Programação C# - CFB Cursos\Aula61\obj\Debug\Aula61.F_ListView.resources
 D:\YASMIN\Estudos_repo\Estudos\C#\Curso de Programação C# - CFB Cursos\Aula61\obj\Debug\Aula61.F_MaskedTextBox.resources
 D:\YASMIN\Estudos_repo\Estudos\C#\Curso de Programação C# - CFB Cursos\Aula61\obj\Debug\Aula61.F_MonthCalendar.resources
+D:\YASMIN\Estudos_repo\Estudos\C#\Curso de Programação C# - CFB Cursos\Aula61\obj\Debug\Aula61.F_NumericUpDown.resources
+D:\YASMIN\Estudos_repo\Estudos\C#\Curso de Programação C# - CFB Cursos\Aula61\obj\Debug\Aula61.F_PictureBox.resources
+D:\YASMIN\Estudos_repo\Estudos\C#\Curso de Programação C# - CFB Cursos\Aula61\obj\Debug\Aula61.F_ProgressBar.resources
+D:\YASMIN\Estudos_repo\Estudos\C#\Curso de Programação C# - CFB Cursos\Aula61\obj\Debug\Aula61.F_RadioButton.resources
+D:\YASMIN\Estudos_repo\Estudos\C#\Curso de Programação C# - CFB Cursos\Aula61\obj\Debug\Aula61.F_TrackBar.resources
+D:\YASMIN\Estudos_repo\Estudos\C#\Curso de Programação C# - CFB Cursos\Aula61\obj\Debug\Aula61.F_TreeView.resources
+D:\YASMIN\Estudos_repo\Estudos\C#\Curso de Programação C# - CFB Cursos\Aula61\obj\Debug\Aula61.F_WebBrowser.resources
+D:\YASMIN\Estudos_repo\Estudos\C#\Curso de Programação C# - CFB Cursos\Aula61\obj\Debug\Aula61.F_SplitContainer.resources
+D:\YASMIN\Estudos_repo\Estudos\C#\Curso de Programação C# - CFB Cursos\Aula61\obj\Debug\Aula61.F_TabControl.resources
+D:\YASMIN\Estudos_repo\Estudos\C#\Curso de Programação C# - CFB Cursos\Aula61\obj\Debug\Aula61.F_TableLayoutPanel.resources
+D:\YASMIN\Estudos_repo\Estudos\C#\Curso de Programação C# - CFB Cursos\Aula61\obj\Debug\Aula61.F_BackgroundWorker.resources
+D:\YASMIN\Estudos_repo\Estudos\C#\Curso de Programação C# - CFB Cursos\Aula61\obj\Debug\Aula61.F_ToolStripContainer.resources
+D:\YASMIN\Estudos_repo\Estudos\C#\Curso de Programação C# - CFB Cursos\Aula61\obj\Debug\Aula61.F_Timer.resources

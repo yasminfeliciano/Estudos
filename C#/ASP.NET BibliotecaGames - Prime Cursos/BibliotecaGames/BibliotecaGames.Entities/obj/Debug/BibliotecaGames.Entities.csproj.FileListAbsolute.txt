@@ -1,0 +1,6 @@
+D:\YASMIN\Estudos_repo\Estudos\C#\ASP.NET BibliotecaGames - Prime Cursos\BibliotecaGames\BibliotecaGames.Entities\obj\Debug\BibliotecaGames.Entities.csproj.AssemblyReference.cache
+D:\YASMIN\Estudos_repo\Estudos\C#\ASP.NET BibliotecaGames - Prime Cursos\BibliotecaGames\BibliotecaGames.Entities\obj\Debug\BibliotecaGames.Entities.csproj.CoreCompileInputs.cache
+D:\YASMIN\Estudos_repo\Estudos\C#\ASP.NET BibliotecaGames - Prime Cursos\BibliotecaGames\BibliotecaGames.Entities\bin\Debug\BibliotecaGames.Entities.dll
+D:\YASMIN\Estudos_repo\Estudos\C#\ASP.NET BibliotecaGames - Prime Cursos\BibliotecaGames\BibliotecaGames.Entities\bin\Debug\BibliotecaGames.Entities.pdb
+D:\YASMIN\Estudos_repo\Estudos\C#\ASP.NET BibliotecaGames - Prime Cursos\BibliotecaGames\BibliotecaGames.Entities\obj\Debug\BibliotecaGames.Entities.dll
+D:\YASMIN\Estudos_repo\Estudos\C#\ASP.NET BibliotecaGames - Prime Cursos\BibliotecaGames\BibliotecaGames.Entities\obj\Debug\BibliotecaGames.Entities.pdb

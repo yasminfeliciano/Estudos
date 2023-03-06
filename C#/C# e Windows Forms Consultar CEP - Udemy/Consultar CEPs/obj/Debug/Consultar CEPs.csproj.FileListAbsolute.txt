@@ -1,0 +1,10 @@
+D:\YASMIN\Estudos_repo\Estudos\C#\C# e Windows Forms - Consultar CEP no WebService dos Correios\Consultar CEPs\bin\Debug\Consultar CEPs.exe.config
+D:\YASMIN\Estudos_repo\Estudos\C#\C# e Windows Forms - Consultar CEP no WebService dos Correios\Consultar CEPs\bin\Debug\Consultar CEPs.exe
+D:\YASMIN\Estudos_repo\Estudos\C#\C# e Windows Forms - Consultar CEP no WebService dos Correios\Consultar CEPs\bin\Debug\Consultar CEPs.pdb
+D:\YASMIN\Estudos_repo\Estudos\C#\C# e Windows Forms - Consultar CEP no WebService dos Correios\Consultar CEPs\obj\Debug\Consultar CEPs.csproj.AssemblyReference.cache
+D:\YASMIN\Estudos_repo\Estudos\C#\C# e Windows Forms - Consultar CEP no WebService dos Correios\Consultar CEPs\obj\Debug\Consultar_CEPs.Form1.resources
+D:\YASMIN\Estudos_repo\Estudos\C#\C# e Windows Forms - Consultar CEP no WebService dos Correios\Consultar CEPs\obj\Debug\Consultar_CEPs.Properties.Resources.resources
+D:\YASMIN\Estudos_repo\Estudos\C#\C# e Windows Forms - Consultar CEP no WebService dos Correios\Consultar CEPs\obj\Debug\Consultar CEPs.csproj.GenerateResource.cache
+D:\YASMIN\Estudos_repo\Estudos\C#\C# e Windows Forms - Consultar CEP no WebService dos Correios\Consultar CEPs\obj\Debug\Consultar CEPs.csproj.CoreCompileInputs.cache
+D:\YASMIN\Estudos_repo\Estudos\C#\C# e Windows Forms - Consultar CEP no WebService dos Correios\Consultar CEPs\obj\Debug\Consultar CEPs.exe
+D:\YASMIN\Estudos_repo\Estudos\C#\C# e Windows Forms - Consultar CEP no WebService dos Correios\Consultar CEPs\obj\Debug\Consultar CEPs.pdb

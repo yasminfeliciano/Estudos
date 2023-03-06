@@ -1,0 +1,11 @@
+D:\YASMIN\Estudos_repo\Estudos\C#\ASP.NET BibliotecaGames - Prime Cursos\BibliotecaGames\BibliotecaGames.BLL\obj\Debug\BibliotecaGames.BLL.csproj.CoreCompileInputs.cache
+D:\YASMIN\Estudos_repo\Estudos\C#\ASP.NET BibliotecaGames - Prime Cursos\BibliotecaGames\BibliotecaGames.BLL\bin\Debug\BibliotecaGames.BLL.dll
+D:\YASMIN\Estudos_repo\Estudos\C#\ASP.NET BibliotecaGames - Prime Cursos\BibliotecaGames\BibliotecaGames.BLL\bin\Debug\BibliotecaGames.BLL.pdb
+D:\YASMIN\Estudos_repo\Estudos\C#\ASP.NET BibliotecaGames - Prime Cursos\BibliotecaGames\BibliotecaGames.BLL\bin\Debug\BibliotecaGames.DAL.dll
+D:\YASMIN\Estudos_repo\Estudos\C#\ASP.NET BibliotecaGames - Prime Cursos\BibliotecaGames\BibliotecaGames.BLL\bin\Debug\BibliotecaGames.Entities.dll
+D:\YASMIN\Estudos_repo\Estudos\C#\ASP.NET BibliotecaGames - Prime Cursos\BibliotecaGames\BibliotecaGames.BLL\bin\Debug\BibliotecaGames.DAL.pdb
+D:\YASMIN\Estudos_repo\Estudos\C#\ASP.NET BibliotecaGames - Prime Cursos\BibliotecaGames\BibliotecaGames.BLL\bin\Debug\BibliotecaGames.Entities.pdb
+D:\YASMIN\Estudos_repo\Estudos\C#\ASP.NET BibliotecaGames - Prime Cursos\BibliotecaGames\BibliotecaGames.BLL\obj\Debug\BibliotecaGames.BLL.csproj.AssemblyReference.cache
+D:\YASMIN\Estudos_repo\Estudos\C#\ASP.NET BibliotecaGames - Prime Cursos\BibliotecaGames\BibliotecaGames.BLL\obj\Debug\BibliotecaGames.BLL.csproj.CopyComplete
+D:\YASMIN\Estudos_repo\Estudos\C#\ASP.NET BibliotecaGames - Prime Cursos\BibliotecaGames\BibliotecaGames.BLL\obj\Debug\BibliotecaGames.BLL.dll
+D:\YASMIN\Estudos_repo\Estudos\C#\ASP.NET BibliotecaGames - Prime Cursos\BibliotecaGames\BibliotecaGames.BLL\obj\Debug\BibliotecaGames.BLL.pdb

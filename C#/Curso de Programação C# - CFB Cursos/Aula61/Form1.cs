@@ -107,5 +107,105 @@ namespace Aula61
             F_MonthCalendar f_MonthCalendar = new F_MonthCalendar();
             f_MonthCalendar.ShowDialog();
         }
+
+        private void MenuNotificacoes_ItemClicked(object sender, ToolStripItemClickedEventArgs e)
+        {
+            if(e.ClickedItem.Name.ToString() == "tsmi_Fechar")
+            {
+                this.Close();
+            }
+            else if(e.ClickedItem.Name.ToString() == "tsmi_Restaurar")
+            {
+                this.WindowState = FormWindowState.Normal;
+            }
+            else if(e.ClickedItem.Name.ToString() == "tsmi_Mensagem")
+            {
+                MessageBox.Show("CFB Cursos - Curso de C#");
+            }
+        }
+
+        private void numericUpDownToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            F_NumericUpDown f_NumericUpDown = new F_NumericUpDown();
+            f_NumericUpDown.ShowDialog();
+        }
+
+        private void pictureBoxToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            F_PictureBox f_PictureBox = new F_PictureBox();
+            f_PictureBox.ShowDialog();
+        }
+
+        private void progressBarToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            F_ProgressBar f_ProgressBar = new F_ProgressBar();
+            f_ProgressBar.ShowDialog();
+        }
+
+        private void radioButtonToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            F_RadioButton f_RadioButton = new F_RadioButton();
+            f_RadioButton.ShowDialog();
+        }
+
+        private void trackBarToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            F_TrackBar f_TrackBar = new F_TrackBar();
+            f_TrackBar.ShowDialog();
+        }
+
+        private void treeViewToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            F_TreeView f_TreeView = new F_TreeView();
+            f_TreeView.ShowDialog();
+        }
+
+        private void webBrowserToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            F_WebBrowser f_WebBrowser = new F_WebBrowser();
+            f_WebBrowser.ShowDialog();
+        }
+
+        private void splitContainerToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            F_SplitContainer f_SplitContainer = new F_SplitContainer();
+            f_SplitContainer.ShowDialog();
+        }
+
+        private void tabControlToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            F_TabControl f_TabControl = new F_TabControl();
+            f_TabControl.ShowDialog();
+        }
+
+        private void tableLayoutPanelToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            F_TableLayoutPanel f_TableLayoutPanel = new F_TableLayoutPanel();
+            f_TableLayoutPanel.ShowDialog();
+        }
+
+        private void toolStripContainerToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            F_ToolStripContainer f_ToolStripContainer = new F_ToolStripContainer();
+            f_ToolStripContainer.ShowDialog();
+        }
+
+        private void backgroundWorkerToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            F_BackgroundWorker f_BackgroundWorker = new F_BackgroundWorker();
+            f_BackgroundWorker.ShowDialog();
+        }
+
+        private void timerToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            F_Timer f_Timer = new F_Timer();
+            f_Timer.ShowDialog();
+        }
+
+        private void sQLiteToolStripMenuItem1_Click(object sender, EventArgs e)
+        {
+            F_SQLite f_SQLite = new F_SQLite();
+            f_SQLite.ShowDialog();
+        }
     }
 }
