@@ -1,0 +1,15 @@
+D:\YASMIN\Estudos_repo\Estudos\C#\Fundamentos do C# - Balta.IO\MeuApp\bin\Debug\net7.0\MeuApp.exe
+D:\YASMIN\Estudos_repo\Estudos\C#\Fundamentos do C# - Balta.IO\MeuApp\bin\Debug\net7.0\MeuApp.deps.json
+D:\YASMIN\Estudos_repo\Estudos\C#\Fundamentos do C# - Balta.IO\MeuApp\bin\Debug\net7.0\MeuApp.runtimeconfig.json
+D:\YASMIN\Estudos_repo\Estudos\C#\Fundamentos do C# - Balta.IO\MeuApp\bin\Debug\net7.0\MeuApp.dll
+D:\YASMIN\Estudos_repo\Estudos\C#\Fundamentos do C# - Balta.IO\MeuApp\bin\Debug\net7.0\MeuApp.pdb
+D:\YASMIN\Estudos_repo\Estudos\C#\Fundamentos do C# - Balta.IO\MeuApp\obj\Debug\net7.0\MeuApp.csproj.AssemblyReference.cache
+D:\YASMIN\Estudos_repo\Estudos\C#\Fundamentos do C# - Balta.IO\MeuApp\obj\Debug\net7.0\MeuApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\YASMIN\Estudos_repo\Estudos\C#\Fundamentos do C# - Balta.IO\MeuApp\obj\Debug\net7.0\MeuApp.AssemblyInfoInputs.cache
+D:\YASMIN\Estudos_repo\Estudos\C#\Fundamentos do C# - Balta.IO\MeuApp\obj\Debug\net7.0\MeuApp.AssemblyInfo.cs
+D:\YASMIN\Estudos_repo\Estudos\C#\Fundamentos do C# - Balta.IO\MeuApp\obj\Debug\net7.0\MeuApp.csproj.CoreCompileInputs.cache
+D:\YASMIN\Estudos_repo\Estudos\C#\Fundamentos do C# - Balta.IO\MeuApp\obj\Debug\net7.0\MeuApp.dll
+D:\YASMIN\Estudos_repo\Estudos\C#\Fundamentos do C# - Balta.IO\MeuApp\obj\Debug\net7.0\refint\MeuApp.dll
+D:\YASMIN\Estudos_repo\Estudos\C#\Fundamentos do C# - Balta.IO\MeuApp\obj\Debug\net7.0\MeuApp.pdb
+D:\YASMIN\Estudos_repo\Estudos\C#\Fundamentos do C# - Balta.IO\MeuApp\obj\Debug\net7.0\MeuApp.genruntimeconfig.cache
+D:\YASMIN\Estudos_repo\Estudos\C#\Fundamentos do C# - Balta.IO\MeuApp\obj\Debug\net7.0\ref\MeuApp.dll

@@ -1,0 +1,15 @@
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\7_Datas\7_CultureInfo\bin\Debug\net7.0\CultureInfo.exe
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\7_Datas\7_CultureInfo\bin\Debug\net7.0\CultureInfo.deps.json
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\7_Datas\7_CultureInfo\bin\Debug\net7.0\CultureInfo.runtimeconfig.json
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\7_Datas\7_CultureInfo\bin\Debug\net7.0\CultureInfo.dll
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\7_Datas\7_CultureInfo\bin\Debug\net7.0\CultureInfo.pdb
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\7_Datas\7_CultureInfo\obj\Debug\net7.0\CultureInfo.csproj.AssemblyReference.cache
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\7_Datas\7_CultureInfo\obj\Debug\net7.0\CultureInfo.GeneratedMSBuildEditorConfig.editorconfig
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\7_Datas\7_CultureInfo\obj\Debug\net7.0\CultureInfo.AssemblyInfoInputs.cache
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\7_Datas\7_CultureInfo\obj\Debug\net7.0\CultureInfo.AssemblyInfo.cs
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\7_Datas\7_CultureInfo\obj\Debug\net7.0\CultureInfo.csproj.CoreCompileInputs.cache
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\7_Datas\7_CultureInfo\obj\Debug\net7.0\CultureInfo.dll
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\7_Datas\7_CultureInfo\obj\Debug\net7.0\refint\CultureInfo.dll
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\7_Datas\7_CultureInfo\obj\Debug\net7.0\CultureInfo.pdb
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\7_Datas\7_CultureInfo\obj\Debug\net7.0\CultureInfo.genruntimeconfig.cache
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\7_Datas\7_CultureInfo\obj\Debug\net7.0\ref\CultureInfo.dll

@@ -1,0 +1,15 @@
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\10_Exceptions\4_DisparandoExcecoes\bin\Debug\net7.0\DisparandoExcecoes.exe
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\10_Exceptions\4_DisparandoExcecoes\bin\Debug\net7.0\DisparandoExcecoes.deps.json
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\10_Exceptions\4_DisparandoExcecoes\bin\Debug\net7.0\DisparandoExcecoes.runtimeconfig.json
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\10_Exceptions\4_DisparandoExcecoes\bin\Debug\net7.0\DisparandoExcecoes.dll
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\10_Exceptions\4_DisparandoExcecoes\bin\Debug\net7.0\DisparandoExcecoes.pdb
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\10_Exceptions\4_DisparandoExcecoes\obj\Debug\net7.0\DisparandoExcecoes.csproj.AssemblyReference.cache
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\10_Exceptions\4_DisparandoExcecoes\obj\Debug\net7.0\DisparandoExcecoes.GeneratedMSBuildEditorConfig.editorconfig
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\10_Exceptions\4_DisparandoExcecoes\obj\Debug\net7.0\DisparandoExcecoes.AssemblyInfoInputs.cache
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\10_Exceptions\4_DisparandoExcecoes\obj\Debug\net7.0\DisparandoExcecoes.AssemblyInfo.cs
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\10_Exceptions\4_DisparandoExcecoes\obj\Debug\net7.0\DisparandoExcecoes.csproj.CoreCompileInputs.cache
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\10_Exceptions\4_DisparandoExcecoes\obj\Debug\net7.0\DisparandoExcecoes.dll
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\10_Exceptions\4_DisparandoExcecoes\obj\Debug\net7.0\refint\DisparandoExcecoes.dll
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\10_Exceptions\4_DisparandoExcecoes\obj\Debug\net7.0\DisparandoExcecoes.pdb
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\10_Exceptions\4_DisparandoExcecoes\obj\Debug\net7.0\DisparandoExcecoes.genruntimeconfig.cache
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\10_Exceptions\4_DisparandoExcecoes\obj\Debug\net7.0\ref\DisparandoExcecoes.dll

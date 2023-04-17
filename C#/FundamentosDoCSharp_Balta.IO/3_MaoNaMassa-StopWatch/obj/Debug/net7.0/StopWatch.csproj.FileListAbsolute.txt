@@ -1,0 +1,15 @@
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\StopWatch\bin\Debug\net7.0\StopWatch.exe
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\StopWatch\bin\Debug\net7.0\StopWatch.deps.json
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\StopWatch\bin\Debug\net7.0\StopWatch.runtimeconfig.json
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\StopWatch\bin\Debug\net7.0\StopWatch.dll
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\StopWatch\bin\Debug\net7.0\StopWatch.pdb
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\StopWatch\obj\Debug\net7.0\StopWatch.csproj.AssemblyReference.cache
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\StopWatch\obj\Debug\net7.0\StopWatch.GeneratedMSBuildEditorConfig.editorconfig
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\StopWatch\obj\Debug\net7.0\StopWatch.AssemblyInfoInputs.cache
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\StopWatch\obj\Debug\net7.0\StopWatch.AssemblyInfo.cs
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\StopWatch\obj\Debug\net7.0\StopWatch.csproj.CoreCompileInputs.cache
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\StopWatch\obj\Debug\net7.0\StopWatch.dll
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\StopWatch\obj\Debug\net7.0\refint\StopWatch.dll
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\StopWatch\obj\Debug\net7.0\StopWatch.pdb
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\StopWatch\obj\Debug\net7.0\StopWatch.genruntimeconfig.cache
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\StopWatch\obj\Debug\net7.0\ref\StopWatch.dll

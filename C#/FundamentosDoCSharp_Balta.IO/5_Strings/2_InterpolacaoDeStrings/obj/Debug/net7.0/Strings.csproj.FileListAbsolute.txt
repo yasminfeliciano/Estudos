@@ -1,0 +1,15 @@
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\Strings\bin\Debug\net7.0\Strings.exe
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\Strings\bin\Debug\net7.0\Strings.deps.json
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\Strings\bin\Debug\net7.0\Strings.runtimeconfig.json
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\Strings\bin\Debug\net7.0\Strings.dll
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\Strings\bin\Debug\net7.0\Strings.pdb
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\Strings\obj\Debug\net7.0\Strings.csproj.AssemblyReference.cache
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\Strings\obj\Debug\net7.0\Strings.GeneratedMSBuildEditorConfig.editorconfig
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\Strings\obj\Debug\net7.0\Strings.AssemblyInfoInputs.cache
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\Strings\obj\Debug\net7.0\Strings.AssemblyInfo.cs
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\Strings\obj\Debug\net7.0\Strings.csproj.CoreCompileInputs.cache
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\Strings\obj\Debug\net7.0\Strings.dll
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\Strings\obj\Debug\net7.0\refint\Strings.dll
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\Strings\obj\Debug\net7.0\Strings.pdb
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\Strings\obj\Debug\net7.0\Strings.genruntimeconfig.cache
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\Strings\obj\Debug\net7.0\ref\Strings.dll

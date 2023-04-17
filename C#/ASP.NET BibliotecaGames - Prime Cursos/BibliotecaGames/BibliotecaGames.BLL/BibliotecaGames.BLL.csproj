@@ -41,6 +41,15 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="EditorBo.cs" />
+    <Compile Include="Exceptions\JogoNaoAlteradoException.cs" />
+    <Compile Include="Exceptions\JogoNaoEncontradoException.cs" />
+    <Compile Include="Exceptions\JogoInvalidoException.cs" />
+    <Compile Include="Exceptions\JogoNaoCadastradoException.cs" />
+    <Compile Include="JogosBo.cs" />
+    <Compile Include="Autenticacao\LoginBo.cs" />
+    <Compile Include="Exceptions\UsuarioNaoCadastradoException.cs" />
+    <Compile Include="GeneroBo.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

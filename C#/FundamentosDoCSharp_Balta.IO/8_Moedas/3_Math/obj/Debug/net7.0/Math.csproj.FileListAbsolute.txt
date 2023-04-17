@@ -1,0 +1,15 @@
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\8_Moedas\Math\bin\Debug\net7.0\Math.exe
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\8_Moedas\Math\bin\Debug\net7.0\Math.deps.json
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\8_Moedas\Math\bin\Debug\net7.0\Math.runtimeconfig.json
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\8_Moedas\Math\bin\Debug\net7.0\Math.dll
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\8_Moedas\Math\bin\Debug\net7.0\Math.pdb
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\8_Moedas\Math\obj\Debug\net7.0\Math.csproj.AssemblyReference.cache
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\8_Moedas\Math\obj\Debug\net7.0\Math.GeneratedMSBuildEditorConfig.editorconfig
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\8_Moedas\Math\obj\Debug\net7.0\Math.AssemblyInfoInputs.cache
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\8_Moedas\Math\obj\Debug\net7.0\Math.AssemblyInfo.cs
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\8_Moedas\Math\obj\Debug\net7.0\Math.csproj.CoreCompileInputs.cache
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\8_Moedas\Math\obj\Debug\net7.0\Math.dll
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\8_Moedas\Math\obj\Debug\net7.0\refint\Math.dll
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\8_Moedas\Math\obj\Debug\net7.0\Math.pdb
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\8_Moedas\Math\obj\Debug\net7.0\Math.genruntimeconfig.cache
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\8_Moedas\Math\obj\Debug\net7.0\ref\Math.dll

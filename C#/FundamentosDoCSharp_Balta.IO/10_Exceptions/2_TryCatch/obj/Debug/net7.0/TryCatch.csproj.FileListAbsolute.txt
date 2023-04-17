@@ -1,0 +1,15 @@
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\10_Exceptions\TryCatch\obj\Debug\net7.0\TryCatch.csproj.AssemblyReference.cache
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\10_Exceptions\TryCatch\obj\Debug\net7.0\TryCatch.GeneratedMSBuildEditorConfig.editorconfig
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\10_Exceptions\TryCatch\obj\Debug\net7.0\TryCatch.AssemblyInfoInputs.cache
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\10_Exceptions\TryCatch\obj\Debug\net7.0\TryCatch.AssemblyInfo.cs
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\10_Exceptions\TryCatch\obj\Debug\net7.0\TryCatch.csproj.CoreCompileInputs.cache
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\10_Exceptions\TryCatch\bin\Debug\net7.0\TryCatch.exe
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\10_Exceptions\TryCatch\bin\Debug\net7.0\TryCatch.deps.json
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\10_Exceptions\TryCatch\bin\Debug\net7.0\TryCatch.runtimeconfig.json
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\10_Exceptions\TryCatch\bin\Debug\net7.0\TryCatch.dll
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\10_Exceptions\TryCatch\bin\Debug\net7.0\TryCatch.pdb
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\10_Exceptions\TryCatch\obj\Debug\net7.0\TryCatch.dll
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\10_Exceptions\TryCatch\obj\Debug\net7.0\refint\TryCatch.dll
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\10_Exceptions\TryCatch\obj\Debug\net7.0\TryCatch.pdb
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\10_Exceptions\TryCatch\obj\Debug\net7.0\TryCatch.genruntimeconfig.cache
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\10_Exceptions\TryCatch\obj\Debug\net7.0\ref\TryCatch.dll

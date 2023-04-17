@@ -1,0 +1,15 @@
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\8_Moedas\FormatandoMoedas\bin\Debug\net7.0\FormatandoMoedas.exe
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\8_Moedas\FormatandoMoedas\bin\Debug\net7.0\FormatandoMoedas.deps.json
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\8_Moedas\FormatandoMoedas\bin\Debug\net7.0\FormatandoMoedas.runtimeconfig.json
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\8_Moedas\FormatandoMoedas\bin\Debug\net7.0\FormatandoMoedas.dll
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\8_Moedas\FormatandoMoedas\bin\Debug\net7.0\FormatandoMoedas.pdb
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\8_Moedas\FormatandoMoedas\obj\Debug\net7.0\FormatandoMoedas.csproj.AssemblyReference.cache
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\8_Moedas\FormatandoMoedas\obj\Debug\net7.0\FormatandoMoedas.GeneratedMSBuildEditorConfig.editorconfig
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\8_Moedas\FormatandoMoedas\obj\Debug\net7.0\FormatandoMoedas.AssemblyInfoInputs.cache
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\8_Moedas\FormatandoMoedas\obj\Debug\net7.0\FormatandoMoedas.AssemblyInfo.cs
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\8_Moedas\FormatandoMoedas\obj\Debug\net7.0\FormatandoMoedas.csproj.CoreCompileInputs.cache
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\8_Moedas\FormatandoMoedas\obj\Debug\net7.0\FormatandoMoedas.dll
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\8_Moedas\FormatandoMoedas\obj\Debug\net7.0\refint\FormatandoMoedas.dll
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\8_Moedas\FormatandoMoedas\obj\Debug\net7.0\FormatandoMoedas.pdb
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\8_Moedas\FormatandoMoedas\obj\Debug\net7.0\FormatandoMoedas.genruntimeconfig.cache
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\8_Moedas\FormatandoMoedas\obj\Debug\net7.0\ref\FormatandoMoedas.dll

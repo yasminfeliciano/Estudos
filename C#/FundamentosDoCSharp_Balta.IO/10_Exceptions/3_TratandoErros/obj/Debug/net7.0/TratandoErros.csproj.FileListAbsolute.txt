@@ -1,0 +1,15 @@
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\10_Exceptions\3_TratandoErros\bin\Debug\net7.0\TratandoErros.exe
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\10_Exceptions\3_TratandoErros\bin\Debug\net7.0\TratandoErros.deps.json
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\10_Exceptions\3_TratandoErros\bin\Debug\net7.0\TratandoErros.runtimeconfig.json
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\10_Exceptions\3_TratandoErros\bin\Debug\net7.0\TratandoErros.dll
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\10_Exceptions\3_TratandoErros\bin\Debug\net7.0\TratandoErros.pdb
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\10_Exceptions\3_TratandoErros\obj\Debug\net7.0\TratandoErros.csproj.AssemblyReference.cache
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\10_Exceptions\3_TratandoErros\obj\Debug\net7.0\TratandoErros.GeneratedMSBuildEditorConfig.editorconfig
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\10_Exceptions\3_TratandoErros\obj\Debug\net7.0\TratandoErros.AssemblyInfoInputs.cache
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\10_Exceptions\3_TratandoErros\obj\Debug\net7.0\TratandoErros.AssemblyInfo.cs
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\10_Exceptions\3_TratandoErros\obj\Debug\net7.0\TratandoErros.csproj.CoreCompileInputs.cache
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\10_Exceptions\3_TratandoErros\obj\Debug\net7.0\TratandoErros.dll
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\10_Exceptions\3_TratandoErros\obj\Debug\net7.0\refint\TratandoErros.dll
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\10_Exceptions\3_TratandoErros\obj\Debug\net7.0\TratandoErros.pdb
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\10_Exceptions\3_TratandoErros\obj\Debug\net7.0\TratandoErros.genruntimeconfig.cache
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\10_Exceptions\3_TratandoErros\obj\Debug\net7.0\ref\TratandoErros.dll

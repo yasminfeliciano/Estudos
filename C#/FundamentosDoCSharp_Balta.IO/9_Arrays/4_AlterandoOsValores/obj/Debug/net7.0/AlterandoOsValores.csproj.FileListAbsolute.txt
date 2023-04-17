@@ -1,0 +1,15 @@
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\9_Arrays\AlterandoOsValores\bin\Debug\net7.0\AlterandoOsValores.exe
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\9_Arrays\AlterandoOsValores\bin\Debug\net7.0\AlterandoOsValores.deps.json
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\9_Arrays\AlterandoOsValores\bin\Debug\net7.0\AlterandoOsValores.runtimeconfig.json
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\9_Arrays\AlterandoOsValores\bin\Debug\net7.0\AlterandoOsValores.dll
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\9_Arrays\AlterandoOsValores\bin\Debug\net7.0\AlterandoOsValores.pdb
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\9_Arrays\AlterandoOsValores\obj\Debug\net7.0\AlterandoOsValores.csproj.AssemblyReference.cache
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\9_Arrays\AlterandoOsValores\obj\Debug\net7.0\AlterandoOsValores.GeneratedMSBuildEditorConfig.editorconfig
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\9_Arrays\AlterandoOsValores\obj\Debug\net7.0\AlterandoOsValores.AssemblyInfoInputs.cache
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\9_Arrays\AlterandoOsValores\obj\Debug\net7.0\AlterandoOsValores.AssemblyInfo.cs
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\9_Arrays\AlterandoOsValores\obj\Debug\net7.0\AlterandoOsValores.csproj.CoreCompileInputs.cache
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\9_Arrays\AlterandoOsValores\obj\Debug\net7.0\AlterandoOsValores.dll
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\9_Arrays\AlterandoOsValores\obj\Debug\net7.0\refint\AlterandoOsValores.dll
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\9_Arrays\AlterandoOsValores\obj\Debug\net7.0\AlterandoOsValores.pdb
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\9_Arrays\AlterandoOsValores\obj\Debug\net7.0\AlterandoOsValores.genruntimeconfig.cache
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\9_Arrays\AlterandoOsValores\obj\Debug\net7.0\ref\AlterandoOsValores.dll

@@ -1,0 +1,15 @@
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\7_ComparacaoDeStrings\bin\Debug\net7.0\ComparacaoDeStrings.exe
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\7_ComparacaoDeStrings\bin\Debug\net7.0\ComparacaoDeStrings.deps.json
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\7_ComparacaoDeStrings\bin\Debug\net7.0\ComparacaoDeStrings.runtimeconfig.json
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\7_ComparacaoDeStrings\bin\Debug\net7.0\ComparacaoDeStrings.dll
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\7_ComparacaoDeStrings\bin\Debug\net7.0\ComparacaoDeStrings.pdb
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\7_ComparacaoDeStrings\obj\Debug\net7.0\ComparacaoDeStrings.csproj.AssemblyReference.cache
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\7_ComparacaoDeStrings\obj\Debug\net7.0\ComparacaoDeStrings.GeneratedMSBuildEditorConfig.editorconfig
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\7_ComparacaoDeStrings\obj\Debug\net7.0\ComparacaoDeStrings.AssemblyInfoInputs.cache
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\7_ComparacaoDeStrings\obj\Debug\net7.0\ComparacaoDeStrings.AssemblyInfo.cs
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\7_ComparacaoDeStrings\obj\Debug\net7.0\ComparacaoDeStrings.csproj.CoreCompileInputs.cache
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\7_ComparacaoDeStrings\obj\Debug\net7.0\ComparacaoDeStrings.dll
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\7_ComparacaoDeStrings\obj\Debug\net7.0\refint\ComparacaoDeStrings.dll
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\7_ComparacaoDeStrings\obj\Debug\net7.0\ComparacaoDeStrings.pdb
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\7_ComparacaoDeStrings\obj\Debug\net7.0\ComparacaoDeStrings.genruntimeconfig.cache
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\7_ComparacaoDeStrings\obj\Debug\net7.0\ref\ComparacaoDeStrings.dll

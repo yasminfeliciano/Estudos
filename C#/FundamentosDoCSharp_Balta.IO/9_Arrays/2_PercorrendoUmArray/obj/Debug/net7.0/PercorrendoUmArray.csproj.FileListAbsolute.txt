@@ -1,0 +1,15 @@
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\9_Arrays\2_PercorrendoUmArray\bin\Debug\net7.0\PercorrendoUmArray.exe
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\9_Arrays\2_PercorrendoUmArray\bin\Debug\net7.0\PercorrendoUmArray.deps.json
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\9_Arrays\2_PercorrendoUmArray\bin\Debug\net7.0\PercorrendoUmArray.runtimeconfig.json
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\9_Arrays\2_PercorrendoUmArray\bin\Debug\net7.0\PercorrendoUmArray.dll
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\9_Arrays\2_PercorrendoUmArray\bin\Debug\net7.0\PercorrendoUmArray.pdb
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\9_Arrays\2_PercorrendoUmArray\obj\Debug\net7.0\PercorrendoUmArray.csproj.AssemblyReference.cache
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\9_Arrays\2_PercorrendoUmArray\obj\Debug\net7.0\PercorrendoUmArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\9_Arrays\2_PercorrendoUmArray\obj\Debug\net7.0\PercorrendoUmArray.AssemblyInfoInputs.cache
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\9_Arrays\2_PercorrendoUmArray\obj\Debug\net7.0\PercorrendoUmArray.AssemblyInfo.cs
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\9_Arrays\2_PercorrendoUmArray\obj\Debug\net7.0\PercorrendoUmArray.csproj.CoreCompileInputs.cache
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\9_Arrays\2_PercorrendoUmArray\obj\Debug\net7.0\PercorrendoUmArray.dll
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\9_Arrays\2_PercorrendoUmArray\obj\Debug\net7.0\refint\PercorrendoUmArray.dll
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\9_Arrays\2_PercorrendoUmArray\obj\Debug\net7.0\PercorrendoUmArray.pdb
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\9_Arrays\2_PercorrendoUmArray\obj\Debug\net7.0\PercorrendoUmArray.genruntimeconfig.cache
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\9_Arrays\2_PercorrendoUmArray\obj\Debug\net7.0\ref\PercorrendoUmArray.dll

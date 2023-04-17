@@ -1,0 +1,15 @@
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\7_Datas\8_Timezone\bin\Debug\net7.0\Timezone.exe
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\7_Datas\8_Timezone\bin\Debug\net7.0\Timezone.deps.json
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\7_Datas\8_Timezone\bin\Debug\net7.0\Timezone.runtimeconfig.json
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\7_Datas\8_Timezone\bin\Debug\net7.0\Timezone.dll
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\7_Datas\8_Timezone\bin\Debug\net7.0\Timezone.pdb
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\7_Datas\8_Timezone\obj\Debug\net7.0\Timezone.csproj.AssemblyReference.cache
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\7_Datas\8_Timezone\obj\Debug\net7.0\Timezone.GeneratedMSBuildEditorConfig.editorconfig
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\7_Datas\8_Timezone\obj\Debug\net7.0\Timezone.AssemblyInfoInputs.cache
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\7_Datas\8_Timezone\obj\Debug\net7.0\Timezone.AssemblyInfo.cs
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\7_Datas\8_Timezone\obj\Debug\net7.0\Timezone.csproj.CoreCompileInputs.cache
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\7_Datas\8_Timezone\obj\Debug\net7.0\Timezone.dll
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\7_Datas\8_Timezone\obj\Debug\net7.0\refint\Timezone.dll
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\7_Datas\8_Timezone\obj\Debug\net7.0\Timezone.pdb
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\7_Datas\8_Timezone\obj\Debug\net7.0\Timezone.genruntimeconfig.cache
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\7_Datas\8_Timezone\obj\Debug\net7.0\ref\Timezone.dll

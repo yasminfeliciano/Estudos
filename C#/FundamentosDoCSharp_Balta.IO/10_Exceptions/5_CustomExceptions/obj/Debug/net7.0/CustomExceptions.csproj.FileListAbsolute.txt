@@ -1,0 +1,15 @@
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\10_Exceptions\5_CustomExceptions\bin\Debug\net7.0\CustomExceptions.exe
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\10_Exceptions\5_CustomExceptions\bin\Debug\net7.0\CustomExceptions.deps.json
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\10_Exceptions\5_CustomExceptions\bin\Debug\net7.0\CustomExceptions.runtimeconfig.json
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\10_Exceptions\5_CustomExceptions\bin\Debug\net7.0\CustomExceptions.dll
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\10_Exceptions\5_CustomExceptions\bin\Debug\net7.0\CustomExceptions.pdb
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\10_Exceptions\5_CustomExceptions\obj\Debug\net7.0\CustomExceptions.csproj.AssemblyReference.cache
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\10_Exceptions\5_CustomExceptions\obj\Debug\net7.0\CustomExceptions.GeneratedMSBuildEditorConfig.editorconfig
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\10_Exceptions\5_CustomExceptions\obj\Debug\net7.0\CustomExceptions.AssemblyInfoInputs.cache
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\10_Exceptions\5_CustomExceptions\obj\Debug\net7.0\CustomExceptions.AssemblyInfo.cs
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\10_Exceptions\5_CustomExceptions\obj\Debug\net7.0\CustomExceptions.csproj.CoreCompileInputs.cache
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\10_Exceptions\5_CustomExceptions\obj\Debug\net7.0\CustomExceptions.dll
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\10_Exceptions\5_CustomExceptions\obj\Debug\net7.0\refint\CustomExceptions.dll
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\10_Exceptions\5_CustomExceptions\obj\Debug\net7.0\CustomExceptions.pdb
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\10_Exceptions\5_CustomExceptions\obj\Debug\net7.0\CustomExceptions.genruntimeconfig.cache
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\10_Exceptions\5_CustomExceptions\obj\Debug\net7.0\ref\CustomExceptions.dll

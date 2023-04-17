@@ -1,0 +1,15 @@
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\10_Exceptions\6_Finally\bin\Debug\net7.0\Finally.exe
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\10_Exceptions\6_Finally\bin\Debug\net7.0\Finally.deps.json
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\10_Exceptions\6_Finally\bin\Debug\net7.0\Finally.runtimeconfig.json
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\10_Exceptions\6_Finally\bin\Debug\net7.0\Finally.dll
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\10_Exceptions\6_Finally\bin\Debug\net7.0\Finally.pdb
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\10_Exceptions\6_Finally\obj\Debug\net7.0\Finally.csproj.AssemblyReference.cache
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\10_Exceptions\6_Finally\obj\Debug\net7.0\Finally.GeneratedMSBuildEditorConfig.editorconfig
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\10_Exceptions\6_Finally\obj\Debug\net7.0\Finally.AssemblyInfoInputs.cache
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\10_Exceptions\6_Finally\obj\Debug\net7.0\Finally.AssemblyInfo.cs
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\10_Exceptions\6_Finally\obj\Debug\net7.0\Finally.csproj.CoreCompileInputs.cache
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\10_Exceptions\6_Finally\obj\Debug\net7.0\Finally.dll
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\10_Exceptions\6_Finally\obj\Debug\net7.0\refint\Finally.dll
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\10_Exceptions\6_Finally\obj\Debug\net7.0\Finally.pdb
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\10_Exceptions\6_Finally\obj\Debug\net7.0\Finally.genruntimeconfig.cache
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\10_Exceptions\6_Finally\obj\Debug\net7.0\ref\Finally.dll

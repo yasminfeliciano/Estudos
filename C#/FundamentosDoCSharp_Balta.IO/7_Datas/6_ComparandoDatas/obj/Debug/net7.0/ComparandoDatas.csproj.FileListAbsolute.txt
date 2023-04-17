@@ -1,0 +1,15 @@
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\7_Datas\6_ComparandoDatas\bin\Debug\net7.0\ComparandoDatas.exe
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\7_Datas\6_ComparandoDatas\bin\Debug\net7.0\ComparandoDatas.deps.json
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\7_Datas\6_ComparandoDatas\bin\Debug\net7.0\ComparandoDatas.runtimeconfig.json
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\7_Datas\6_ComparandoDatas\bin\Debug\net7.0\ComparandoDatas.dll
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\7_Datas\6_ComparandoDatas\bin\Debug\net7.0\ComparandoDatas.pdb
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\7_Datas\6_ComparandoDatas\obj\Debug\net7.0\ComparandoDatas.csproj.AssemblyReference.cache
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\7_Datas\6_ComparandoDatas\obj\Debug\net7.0\ComparandoDatas.GeneratedMSBuildEditorConfig.editorconfig
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\7_Datas\6_ComparandoDatas\obj\Debug\net7.0\ComparandoDatas.AssemblyInfoInputs.cache
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\7_Datas\6_ComparandoDatas\obj\Debug\net7.0\ComparandoDatas.AssemblyInfo.cs
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\7_Datas\6_ComparandoDatas\obj\Debug\net7.0\ComparandoDatas.csproj.CoreCompileInputs.cache
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\7_Datas\6_ComparandoDatas\obj\Debug\net7.0\ComparandoDatas.dll
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\7_Datas\6_ComparandoDatas\obj\Debug\net7.0\refint\ComparandoDatas.dll
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\7_Datas\6_ComparandoDatas\obj\Debug\net7.0\ComparandoDatas.pdb
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\7_Datas\6_ComparandoDatas\obj\Debug\net7.0\ComparandoDatas.genruntimeconfig.cache
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\7_Datas\6_ComparandoDatas\obj\Debug\net7.0\ref\ComparandoDatas.dll

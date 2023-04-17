@@ -1,0 +1,15 @@
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\7_Datas\IniciandoComDatas\bin\Debug\net7.0\IniciandoComDatas.exe
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\7_Datas\IniciandoComDatas\bin\Debug\net7.0\IniciandoComDatas.deps.json
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\7_Datas\IniciandoComDatas\bin\Debug\net7.0\IniciandoComDatas.runtimeconfig.json
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\7_Datas\IniciandoComDatas\bin\Debug\net7.0\IniciandoComDatas.dll
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\7_Datas\IniciandoComDatas\bin\Debug\net7.0\IniciandoComDatas.pdb
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\7_Datas\IniciandoComDatas\obj\Debug\net7.0\IniciandoComDatas.csproj.AssemblyReference.cache
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\7_Datas\IniciandoComDatas\obj\Debug\net7.0\IniciandoComDatas.GeneratedMSBuildEditorConfig.editorconfig
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\7_Datas\IniciandoComDatas\obj\Debug\net7.0\IniciandoComDatas.AssemblyInfoInputs.cache
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\7_Datas\IniciandoComDatas\obj\Debug\net7.0\IniciandoComDatas.AssemblyInfo.cs
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\7_Datas\IniciandoComDatas\obj\Debug\net7.0\IniciandoComDatas.csproj.CoreCompileInputs.cache
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\7_Datas\IniciandoComDatas\obj\Debug\net7.0\IniciandoComDatas.dll
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\7_Datas\IniciandoComDatas\obj\Debug\net7.0\refint\IniciandoComDatas.dll
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\7_Datas\IniciandoComDatas\obj\Debug\net7.0\IniciandoComDatas.pdb
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\7_Datas\IniciandoComDatas\obj\Debug\net7.0\IniciandoComDatas.genruntimeconfig.cache
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\7_Datas\IniciandoComDatas\obj\Debug\net7.0\ref\IniciandoComDatas.dll

@@ -1,0 +1,15 @@
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\9_Arrays\3_ForEach\bin\Debug\net7.0\ForEach.exe
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\9_Arrays\3_ForEach\bin\Debug\net7.0\ForEach.deps.json
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\9_Arrays\3_ForEach\bin\Debug\net7.0\ForEach.runtimeconfig.json
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\9_Arrays\3_ForEach\bin\Debug\net7.0\ForEach.dll
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\9_Arrays\3_ForEach\bin\Debug\net7.0\ForEach.pdb
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\9_Arrays\3_ForEach\obj\Debug\net7.0\ForEach.csproj.AssemblyReference.cache
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\9_Arrays\3_ForEach\obj\Debug\net7.0\ForEach.GeneratedMSBuildEditorConfig.editorconfig
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\9_Arrays\3_ForEach\obj\Debug\net7.0\ForEach.AssemblyInfoInputs.cache
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\9_Arrays\3_ForEach\obj\Debug\net7.0\ForEach.AssemblyInfo.cs
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\9_Arrays\3_ForEach\obj\Debug\net7.0\ForEach.csproj.CoreCompileInputs.cache
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\9_Arrays\3_ForEach\obj\Debug\net7.0\ForEach.dll
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\9_Arrays\3_ForEach\obj\Debug\net7.0\refint\ForEach.dll
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\9_Arrays\3_ForEach\obj\Debug\net7.0\ForEach.pdb
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\9_Arrays\3_ForEach\obj\Debug\net7.0\ForEach.genruntimeconfig.cache
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\9_Arrays\3_ForEach\obj\Debug\net7.0\ref\ForEach.dll

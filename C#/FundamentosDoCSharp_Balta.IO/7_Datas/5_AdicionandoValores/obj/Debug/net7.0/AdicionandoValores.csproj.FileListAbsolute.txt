@@ -1,0 +1,15 @@
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\7_Datas\5_AdicionandoValores\bin\Debug\net7.0\AdicionandoValores.exe
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\7_Datas\5_AdicionandoValores\bin\Debug\net7.0\AdicionandoValores.deps.json
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\7_Datas\5_AdicionandoValores\bin\Debug\net7.0\AdicionandoValores.runtimeconfig.json
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\7_Datas\5_AdicionandoValores\bin\Debug\net7.0\AdicionandoValores.dll
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\7_Datas\5_AdicionandoValores\bin\Debug\net7.0\AdicionandoValores.pdb
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\7_Datas\5_AdicionandoValores\obj\Debug\net7.0\AdicionandoValores.csproj.AssemblyReference.cache
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\7_Datas\5_AdicionandoValores\obj\Debug\net7.0\AdicionandoValores.GeneratedMSBuildEditorConfig.editorconfig
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\7_Datas\5_AdicionandoValores\obj\Debug\net7.0\AdicionandoValores.AssemblyInfoInputs.cache
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\7_Datas\5_AdicionandoValores\obj\Debug\net7.0\AdicionandoValores.AssemblyInfo.cs
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\7_Datas\5_AdicionandoValores\obj\Debug\net7.0\AdicionandoValores.csproj.CoreCompileInputs.cache
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\7_Datas\5_AdicionandoValores\obj\Debug\net7.0\AdicionandoValores.dll
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\7_Datas\5_AdicionandoValores\obj\Debug\net7.0\refint\AdicionandoValores.dll
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\7_Datas\5_AdicionandoValores\obj\Debug\net7.0\AdicionandoValores.pdb
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\7_Datas\5_AdicionandoValores\obj\Debug\net7.0\AdicionandoValores.genruntimeconfig.cache
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\7_Datas\5_AdicionandoValores\obj\Debug\net7.0\ref\AdicionandoValores.dll

@@ -1,0 +1,15 @@
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\6_MaoNaMassa-EditorHTML\bin\Debug\net7.0\EditorHTML.exe
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\6_MaoNaMassa-EditorHTML\bin\Debug\net7.0\EditorHTML.deps.json
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\6_MaoNaMassa-EditorHTML\bin\Debug\net7.0\EditorHTML.runtimeconfig.json
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\6_MaoNaMassa-EditorHTML\bin\Debug\net7.0\EditorHTML.dll
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\6_MaoNaMassa-EditorHTML\bin\Debug\net7.0\EditorHTML.pdb
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\6_MaoNaMassa-EditorHTML\obj\Debug\net7.0\EditorHTML.csproj.AssemblyReference.cache
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\6_MaoNaMassa-EditorHTML\obj\Debug\net7.0\EditorHTML.GeneratedMSBuildEditorConfig.editorconfig
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\6_MaoNaMassa-EditorHTML\obj\Debug\net7.0\EditorHTML.AssemblyInfoInputs.cache
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\6_MaoNaMassa-EditorHTML\obj\Debug\net7.0\EditorHTML.AssemblyInfo.cs
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\6_MaoNaMassa-EditorHTML\obj\Debug\net7.0\EditorHTML.csproj.CoreCompileInputs.cache
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\6_MaoNaMassa-EditorHTML\obj\Debug\net7.0\EditorHTML.dll
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\6_MaoNaMassa-EditorHTML\obj\Debug\net7.0\refint\EditorHTML.dll
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\6_MaoNaMassa-EditorHTML\obj\Debug\net7.0\EditorHTML.pdb
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\6_MaoNaMassa-EditorHTML\obj\Debug\net7.0\EditorHTML.genruntimeconfig.cache
+D:\YASMIN\Estudos_repo\Estudos\C#\FundamentosDoCSharp_Balta.IO\6_MaoNaMassa-EditorHTML\obj\Debug\net7.0\ref\EditorHTML.dll
